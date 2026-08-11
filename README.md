@@ -95,6 +95,8 @@ The dataset contains:
 
 ## 📥 Part B : Data Acquisition
 
+<img width="1200" height="300" alt="partB" src="https://github.com/user-attachments/assets/794d546e-0cb6-4cd5-8d49-bc2fd42fdfd1" />
+
 ### 3️⃣ Import datasets from multiple sources
 
 ##### 📂 Load CSV files (main transactions dataset)
