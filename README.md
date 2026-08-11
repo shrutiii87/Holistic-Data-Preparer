@@ -5,11 +5,6 @@
 
 ---
 
-    
-<img width="1400" height="650" alt="animated_data_pipeline" src="https://github.com/user-attachments/assets/200e5980-4236-4276-8208-e13db420a1a0" />
-
----
-
 ## 🎯 Objective
 
 The purpose of this project is to demonstrate **complete, practical knowledge of Data Preprocessing and Feature Engineering** — walking the full end-to-end path from raw, messy, multi-source data to a single clean, consistent, model-ready dataset.
@@ -102,12 +97,6 @@ The dataset contains:
 ---
 
 ## 📥 Part B : Data Acquisition
-
----
-
-<img width="1983" height="793" alt="11896c89-0474-41c2-91ad-afd3c469e4cf" src="https://github.com/user-attachments/assets/92838b0e-b38f-4526-9e0a-5bf74142a576" />
-
----
 
 ### 3️⃣ Import datasets from multiple sources
 
