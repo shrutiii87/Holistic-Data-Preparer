@@ -1,9 +1,4 @@
-<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/3cf3e04e-ed24-4a23-8816-21215b66b889" />!
-
----
-
-<p align="center">
-<b>An end-to-end Data Preprocessing & Feature Engineering pipeline on a Customer Credit Risk dataset.</b><br/>
+<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/3cf3e04e-ed24-4a23-8816-21215b66b889" />
 
 ---
 
