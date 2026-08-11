@@ -1,5 +1,5 @@
 <p align="center">
-  <font size="7"><b>Holistic Data Preparer</b></font><br/>
+  <font size="29"><b>Holistic Data Preparer</b></font><br/>
 </p>
 
 <p align="center">
