@@ -1,11 +1,8 @@
-<img src="docs/banner.png" alt="Holistic Data Preparer" width="100%" />
-
 <h1 align="center">🧪 Holistic Data Preparer</h1>
 
 <p align="center">
 <b>An end-to-end Data Preprocessing & Feature Engineering pipeline on a Customer Credit Risk dataset.</b><br/>
-<sub>Final Project · Red &amp; White Skill Education · Duration: 8 Days (1 hour per day)</sub>
-</p>
+
 
 ---
 
@@ -88,32 +85,7 @@ The dataset contains:
 
 ---
 
-### 🛠️ Imported Libraries
-
-```python
-import pandas as pd
-import numpy as np
-import sqlite3, requests
-
-from sklearn.impute import SimpleImputer, KNNImputer, MissingIndicator
-from sklearn.experimental import enable_iterative_imputer  # noqa: F401
-from sklearn.impute import IterativeImputer                # MICE
-from sklearn.preprocessing import (
-    LabelEncoder, OrdinalEncoder, OneHotEncoder, Binarizer, KBinsDiscretizer,
-    StandardScaler, MinMaxScaler, MaxAbsScaler, RobustScaler, Normalizer,
-    FunctionTransformer, PowerTransformer
-)
-from sklearn.compose import ColumnTransformer
-from sklearn.pipeline import Pipeline
-from scipy.stats import zscore
-from ydata_profiling import ProfileReport
-```
-
----
-
 ## 📥 Part B : Data Acquisition
-
-<img src="docs/part-acquisition.png" alt="Data acquisition from CSV, JSON, SQL and API" width="100%" />
 
 ### 3️⃣ Import datasets from multiple sources
 
@@ -186,8 +158,6 @@ final_df.head()
 ---
 
 ## 🧹 Part C : Data Understanding & Cleaning
-
-<img src="docs/part-missing.png" alt="Missing value imputation" width="100%" />
 
 ### 4️⃣ Explore the dataset using pandas
 
@@ -324,8 +294,6 @@ print("Before:", final_df.shape, " After:", cca_df.shape)
 
 ## ⚠️ Part D : Outlier Handling
 
-<img src="docs/part-outliers.png" alt="Outlier detection and treatment" width="100%" />
-
 ### 7️⃣ Detect and treat outliers using:
 
 ##### 📈 Z-score Method
@@ -397,8 +365,6 @@ print("Winsorization Applied Successfully!")
 ---
 
 ## 🧬 Part E : Feature Engineering
-
-<img src="docs/part-features.png" alt="Feature engineering, encoding and scaling" width="100%" />
 
 ### 8️⃣ Handle variable types
 
@@ -619,8 +585,6 @@ final_df["spend_to_income"]   = final_df["spending_ratio"] / 100
 
 ## 📊 Part H : Final Deliverable
 
-<img src="docs/part-final.png" alt="Final clean ML-ready dataset" width="100%" />
-
 ### 1️⃣4️⃣ Final cleaned and transformed dataset
 
 ```python
@@ -731,7 +695,6 @@ Your feedback, suggestions, and contributions are always welcome.
 
 <div align="center">
 
-*"Quality is our Motto."* · Shaping *"skills"* for *"scaling"* higher…!!!
 
 </div>
 
