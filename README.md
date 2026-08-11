@@ -1,3 +1,4 @@
+<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/3cf3e04e-ed24-4a23-8816-21215b66b889" />!
 <h1 align="center">Holistic Data Preparer</h1>
 
 <p align="center">
