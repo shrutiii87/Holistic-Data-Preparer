@@ -1,6 +1,4 @@
-<p align="center">
-  <font size="29"><b>Holistic Data Preparer</b></font><br/>
-</p>
+<h1 align="center">Holistic Data Preparer</h1>
 
 <p align="center">
 <b>An end-to-end Data Preprocessing & Feature Engineering pipeline on a Customer Credit Risk dataset.</b><br/>
