@@ -1,0 +1,5002 @@
+[
+  {
+    "customer_id": 100001,
+    "spending_ratio": 15.02,
+    "join_date": "2024-05-05"
+  },
+  {
+    "customer_id": 100002,
+    "spending_ratio": 27.04,
+    "join_date": "2016-03-03"
+  },
+  {
+    "customer_id": 100003,
+    "spending_ratio": 71.28,
+    "join_date": "2013-02-17"
+  },
+  {
+    "customer_id": 100004,
+    "spending_ratio": 71.66,
+    "join_date": "2025-03-06"
+  },
+  {
+    "customer_id": 100005,
+    "spending_ratio": 12.82,
+    "join_date": "2022-03-26"
+  },
+  {
+    "customer_id": 100006,
+    "spending_ratio": 7.86,
+    "join_date": "2019-06-19"
+  },
+  {
+    "customer_id": 100007,
+    "spending_ratio": 24.68,
+    "join_date": "2012-02-07"
+  },
+  {
+    "customer_id": 100008,
+    "spending_ratio": 59.18,
+    "join_date": "2021-05-02"
+  },
+  {
+    "customer_id": 100009,
+    "spending_ratio": 22.9,
+    "join_date": "2022-08-03"
+  },
+  {
+    "customer_id": 100010,
+    "spending_ratio": 68.12,
+    "join_date": "2024-07-29"
+  },
+  {
+    "customer_id": 100011,
+    "spending_ratio": 24.84,
+    "join_date": "2019-05-30"
+  },
+  {
+    "customer_id": 100012,
+    "spending_ratio": 30.04,
+    "join_date": "2023-03-21"
+  },
+  {
+    "customer_id": 100013,
+    "spending_ratio": 73.29,
+    "join_date": "2010-02-23"
+  },
+  {
+    "customer_id": 100014,
+    "spending_ratio": 67.83,
+    "join_date": "2013-07-31"
+  },
+  {
+    "customer_id": 100015,
+    "spending_ratio": 30.01,
+    "join_date": "2017-08-19"
+  },
+  {
+    "customer_id": 100016,
+    "spending_ratio": 91.15,
+    "join_date": "2014-10-30"
+  },
+  {
+    "customer_id": 100017,
+    "spending_ratio": 14.2,
+    "join_date": "2017-07-20"
+  },
+  {
+    "customer_id": 100018,
+    "spending_ratio": 13.7,
+    "join_date": "2018-07-10"
+  },
+  {
+    "customer_id": 100019,
+    "spending_ratio": 59.34,
+    "join_date": "2017-09-18"
+  },
+  {
+    "customer_id": 100020,
+    "spending_ratio": 70.68,
+    "join_date": "2010-12-22"
+  },
+  {
+    "customer_id": 100021,
+    "spending_ratio": 16.23,
+    "join_date": "2022-01-10"
+  },
+  {
+    "customer_id": 100022,
+    "spending_ratio": 12.09,
+    "join_date": "2018-06-28"
+  },
+  {
+    "customer_id": 100023,
+    "spending_ratio": 79.65,
+    "join_date": "2016-07-29"
+  },
+  {
+    "customer_id": 100024,
+    "spending_ratio": 84.69,
+    "join_date": "2023-11-15"
+  },
+  {
+    "customer_id": 100025,
+    "spending_ratio": 56.96,
+    "join_date": "2018-02-10"
+  },
+  {
+    "customer_id": 100026,
+    "spending_ratio": 11.26,
+    "join_date": "2025-10-20"
+  },
+  {
+    "customer_id": 100027,
+    "spending_ratio": null,
+    "join_date": "2024-10-31"
+  },
+  {
+    "customer_id": 100028,
+    "spending_ratio": 93.67,
+    "join_date": "2016-06-28"
+  },
+  {
+    "customer_id": 100029,
+    "spending_ratio": 82.98,
+    "join_date": "2015-03-23"
+  },
+  {
+    "customer_id": 100030,
+    "spending_ratio": 30.02,
+    "join_date": "2018-07-11"
+  },
+  {
+    "customer_id": 100031,
+    "spending_ratio": 80.07,
+    "join_date": "2024-04-04"
+  },
+  {
+    "customer_id": 100032,
+    "spending_ratio": 38.32,
+    "join_date": "2013-08-25"
+  },
+  {
+    "customer_id": 100033,
+    "spending_ratio": 65.32,
+    "join_date": "2014-09-13"
+  },
+  {
+    "customer_id": 100034,
+    "spending_ratio": 89.3,
+    "join_date": "2025-09-28"
+  },
+  {
+    "customer_id": 100035,
+    "spending_ratio": 11.43,
+    "join_date": "2024-07-14"
+  },
+  {
+    "customer_id": 100036,
+    "spending_ratio": 20.4,
+    "join_date": "2024-03-29"
+  },
+  {
+    "customer_id": 100037,
+    "spending_ratio": 307.81,
+    "join_date": "2026-05-10"
+  },
+  {
+    "customer_id": 100038,
+    "spending_ratio": 39.15,
+    "join_date": "2020-05-14"
+  },
+  {
+    "customer_id": 100039,
+    "spending_ratio": 66.93,
+    "join_date": "2024-05-09"
+  },
+  {
+    "customer_id": 100040,
+    "spending_ratio": null,
+    "join_date": "2014-12-05"
+  },
+  {
+    "customer_id": 100041,
+    "spending_ratio": 25.61,
+    "join_date": "2011-04-04"
+  },
+  {
+    "customer_id": 100042,
+    "spending_ratio": 77.45,
+    "join_date": "2010-09-20"
+  },
+  {
+    "customer_id": 100043,
+    "spending_ratio": 29.1,
+    "join_date": "2018-12-31"
+  },
+  {
+    "customer_id": 100044,
+    "spending_ratio": 87.18,
+    "join_date": "2014-09-25"
+  },
+  {
+    "customer_id": 100045,
+    "spending_ratio": 83.87,
+    "join_date": "2022-09-21"
+  },
+  {
+    "customer_id": 100046,
+    "spending_ratio": 24.14,
+    "join_date": "2017-01-21"
+  },
+  {
+    "customer_id": 100047,
+    "spending_ratio": 40.61,
+    "join_date": "2021-03-13"
+  },
+  {
+    "customer_id": 100048,
+    "spending_ratio": 46.3,
+    "join_date": "2024-06-02"
+  },
+  {
+    "customer_id": 100049,
+    "spending_ratio": 17.57,
+    "join_date": "2015-12-10"
+  },
+  {
+    "customer_id": 100050,
+    "spending_ratio": 53.51,
+    "join_date": "2022-08-04"
+  },
+  {
+    "customer_id": 100051,
+    "spending_ratio": 43.56,
+    "join_date": "2023-02-10"
+  },
+  {
+    "customer_id": 100052,
+    "spending_ratio": 40.95,
+    "join_date": "2023-02-02"
+  },
+  {
+    "customer_id": 100053,
+    "spending_ratio": 94.76,
+    "join_date": "2014-12-02"
+  },
+  {
+    "customer_id": 100054,
+    "spending_ratio": 50.86,
+    "join_date": "2013-02-07"
+  },
+  {
+    "customer_id": 100055,
+    "spending_ratio": null,
+    "join_date": "2012-01-15"
+  },
+  {
+    "customer_id": 100056,
+    "spending_ratio": 18.76,
+    "join_date": "2012-06-17"
+  },
+  {
+    "customer_id": 100057,
+    "spending_ratio": 76.29,
+    "join_date": "2013-08-03"
+  },
+  {
+    "customer_id": 100058,
+    "spending_ratio": 58.68,
+    "join_date": "2019-06-21"
+  },
+  {
+    "customer_id": 100059,
+    "spending_ratio": 39.35,
+    "join_date": "2018-08-19"
+  },
+  {
+    "customer_id": 100060,
+    "spending_ratio": 52.62,
+    "join_date": "2020-07-01"
+  },
+  {
+    "customer_id": 100061,
+    "spending_ratio": 82.47,
+    "join_date": "2022-05-30"
+  },
+  {
+    "customer_id": 100062,
+    "spending_ratio": 66.23,
+    "join_date": "2010-04-05"
+  },
+  {
+    "customer_id": 100063,
+    "spending_ratio": 66.35,
+    "join_date": "2012-07-27"
+  },
+  {
+    "customer_id": 100064,
+    "spending_ratio": 72.58,
+    "join_date": "2022-01-16"
+  },
+  {
+    "customer_id": 100065,
+    "spending_ratio": 35.62,
+    "join_date": "2024-05-17"
+  },
+  {
+    "customer_id": 100066,
+    "spending_ratio": 44.13,
+    "join_date": "2016-08-01"
+  },
+  {
+    "customer_id": 100067,
+    "spending_ratio": null,
+    "join_date": "2020-03-05"
+  },
+  {
+    "customer_id": 100068,
+    "spending_ratio": null,
+    "join_date": "2026-03-13"
+  },
+  {
+    "customer_id": 100069,
+    "spending_ratio": 92.47,
+    "join_date": "2015-11-28"
+  },
+  {
+    "customer_id": 100070,
+    "spending_ratio": 50.69,
+    "join_date": "2014-01-03"
+  },
+  {
+    "customer_id": 100071,
+    "spending_ratio": 83.35,
+    "join_date": "2012-05-21"
+  },
+  {
+    "customer_id": 100072,
+    "spending_ratio": 80.75,
+    "join_date": "2016-09-10"
+  },
+  {
+    "customer_id": 100073,
+    "spending_ratio": 59.81,
+    "join_date": "2021-05-21"
+  },
+  {
+    "customer_id": 100074,
+    "spending_ratio": 38.65,
+    "join_date": "2013-06-06"
+  },
+  {
+    "customer_id": 100075,
+    "spending_ratio": 53.54,
+    "join_date": "2013-08-16"
+  },
+  {
+    "customer_id": 100076,
+    "spending_ratio": null,
+    "join_date": "2021-11-23"
+  },
+  {
+    "customer_id": 100077,
+    "spending_ratio": 34.17,
+    "join_date": "2023-06-08"
+  },
+  {
+    "customer_id": 100078,
+    "spending_ratio": null,
+    "join_date": "2010-06-09"
+  },
+  {
+    "customer_id": 100079,
+    "spending_ratio": 84.08,
+    "join_date": "2018-02-21"
+  },
+  {
+    "customer_id": 100080,
+    "spending_ratio": 26.55,
+    "join_date": "2016-11-24"
+  },
+  {
+    "customer_id": 100081,
+    "spending_ratio": 84.02,
+    "join_date": "2015-05-28"
+  },
+  {
+    "customer_id": 100082,
+    "spending_ratio": 188.37,
+    "join_date": "2011-10-08"
+  },
+  {
+    "customer_id": 100083,
+    "spending_ratio": 78.44,
+    "join_date": "2020-11-25"
+  },
+  {
+    "customer_id": 100084,
+    "spending_ratio": 73.93,
+    "join_date": "2021-12-12"
+  },
+  {
+    "customer_id": 100085,
+    "spending_ratio": 64.38,
+    "join_date": "2012-11-17"
+  },
+  {
+    "customer_id": 100086,
+    "spending_ratio": 19.86,
+    "join_date": "2022-05-01"
+  },
+  {
+    "customer_id": 100087,
+    "spending_ratio": 83.52,
+    "join_date": "2021-11-01"
+  },
+  {
+    "customer_id": 100088,
+    "spending_ratio": 91.79,
+    "join_date": "2019-06-29"
+  },
+  {
+    "customer_id": 100089,
+    "spending_ratio": 72.97,
+    "join_date": "2022-02-04"
+  },
+  {
+    "customer_id": 100090,
+    "spending_ratio": 23.1,
+    "join_date": "2025-06-22"
+  },
+  {
+    "customer_id": 100091,
+    "spending_ratio": 40.91,
+    "join_date": "2016-12-28"
+  },
+  {
+    "customer_id": 100092,
+    "spending_ratio": 63.49,
+    "join_date": "2025-01-24"
+  },
+  {
+    "customer_id": 100093,
+    "spending_ratio": 85.97,
+    "join_date": "2019-10-29"
+  },
+  {
+    "customer_id": 100094,
+    "spending_ratio": 15.89,
+    "join_date": "2020-02-16"
+  },
+  {
+    "customer_id": 100095,
+    "spending_ratio": 10.76,
+    "join_date": "2015-01-15"
+  },
+  {
+    "customer_id": 100096,
+    "spending_ratio": 57.95,
+    "join_date": "2010-06-22"
+  },
+  {
+    "customer_id": 100097,
+    "spending_ratio": 57.96,
+    "join_date": "2015-03-01"
+  },
+  {
+    "customer_id": 100098,
+    "spending_ratio": 11.39,
+    "join_date": "2010-02-28"
+  },
+  {
+    "customer_id": 100099,
+    "spending_ratio": 10.3,
+    "join_date": "2024-02-26"
+  },
+  {
+    "customer_id": 100100,
+    "spending_ratio": 86.49,
+    "join_date": "2011-07-07"
+  },
+  {
+    "customer_id": 100101,
+    "spending_ratio": 11.38,
+    "join_date": "2017-05-30"
+  },
+  {
+    "customer_id": 100102,
+    "spending_ratio": 30.06,
+    "join_date": "2015-05-04"
+  },
+  {
+    "customer_id": 100103,
+    "spending_ratio": 24.28,
+    "join_date": "2020-11-20"
+  },
+  {
+    "customer_id": 100104,
+    "spending_ratio": 70.1,
+    "join_date": "2012-12-19"
+  },
+  {
+    "customer_id": 100105,
+    "spending_ratio": 56.86,
+    "join_date": "2022-10-22"
+  },
+  {
+    "customer_id": 100106,
+    "spending_ratio": 75.62,
+    "join_date": "2015-06-14"
+  },
+  {
+    "customer_id": 100107,
+    "spending_ratio": 22.14,
+    "join_date": "2019-02-17"
+  },
+  {
+    "customer_id": 100108,
+    "spending_ratio": 64.31,
+    "join_date": "2012-03-05"
+  },
+  {
+    "customer_id": 100109,
+    "spending_ratio": 43.12,
+    "join_date": "2017-12-12"
+  },
+  {
+    "customer_id": 100110,
+    "spending_ratio": 82.75,
+    "join_date": "2020-06-22"
+  },
+  {
+    "customer_id": 100111,
+    "spending_ratio": 65.6,
+    "join_date": "2011-03-20"
+  },
+  {
+    "customer_id": 100112,
+    "spending_ratio": 13.86,
+    "join_date": "2024-06-29"
+  },
+  {
+    "customer_id": 100113,
+    "spending_ratio": 70.54,
+    "join_date": "2019-01-12"
+  },
+  {
+    "customer_id": 100114,
+    "spending_ratio": 27.38,
+    "join_date": "2012-06-14"
+  },
+  {
+    "customer_id": 100115,
+    "spending_ratio": 53.27,
+    "join_date": "2014-04-08"
+  },
+  {
+    "customer_id": 100116,
+    "spending_ratio": 42.97,
+    "join_date": "2013-02-22"
+  },
+  {
+    "customer_id": 100117,
+    "spending_ratio": 46.64,
+    "join_date": "2016-03-31"
+  },
+  {
+    "customer_id": 100118,
+    "spending_ratio": 44.88,
+    "join_date": "2011-09-10"
+  },
+  {
+    "customer_id": 100119,
+    "spending_ratio": 13.81,
+    "join_date": "2022-05-06"
+  },
+  {
+    "customer_id": 100120,
+    "spending_ratio": 94.94,
+    "join_date": "2024-08-17"
+  },
+  {
+    "customer_id": 100121,
+    "spending_ratio": 92.21,
+    "join_date": "2010-05-01"
+  },
+  {
+    "customer_id": 100122,
+    "spending_ratio": 19.97,
+    "join_date": "2015-04-21"
+  },
+  {
+    "customer_id": 100123,
+    "spending_ratio": null,
+    "join_date": "2020-11-22"
+  },
+  {
+    "customer_id": 100124,
+    "spending_ratio": 86.22,
+    "join_date": "2018-12-30"
+  },
+  {
+    "customer_id": 100125,
+    "spending_ratio": 39.11,
+    "join_date": "2013-09-10"
+  },
+  {
+    "customer_id": 100126,
+    "spending_ratio": 28.87,
+    "join_date": "2018-10-04"
+  },
+  {
+    "customer_id": 100127,
+    "spending_ratio": 30.67,
+    "join_date": "2020-03-16"
+  },
+  {
+    "customer_id": 100128,
+    "spending_ratio": 91.16,
+    "join_date": "2025-08-16"
+  },
+  {
+    "customer_id": 100129,
+    "spending_ratio": 194.92,
+    "join_date": "2022-06-19"
+  },
+  {
+    "customer_id": 100130,
+    "spending_ratio": 18.93,
+    "join_date": "2020-11-30"
+  },
+  {
+    "customer_id": 100131,
+    "spending_ratio": 24.59,
+    "join_date": "2016-08-27"
+  },
+  {
+    "customer_id": 100132,
+    "spending_ratio": 57.13,
+    "join_date": "2011-04-25"
+  },
+  {
+    "customer_id": 100133,
+    "spending_ratio": 10.49,
+    "join_date": "2022-02-28"
+  },
+  {
+    "customer_id": 100134,
+    "spending_ratio": 10.14,
+    "join_date": "2017-01-13"
+  },
+  {
+    "customer_id": 100135,
+    "spending_ratio": 47.91,
+    "join_date": "2023-02-07"
+  },
+  {
+    "customer_id": 100136,
+    "spending_ratio": 19.17,
+    "join_date": "2021-11-29"
+  },
+  {
+    "customer_id": 100137,
+    "spending_ratio": 12.21,
+    "join_date": "2021-05-23"
+  },
+  {
+    "customer_id": 100138,
+    "spending_ratio": 11.17,
+    "join_date": "2014-03-03"
+  },
+  {
+    "customer_id": 100139,
+    "spending_ratio": 65.77,
+    "join_date": "2011-07-11"
+  },
+  {
+    "customer_id": 100140,
+    "spending_ratio": 41.34,
+    "join_date": "2015-04-11"
+  },
+  {
+    "customer_id": 100141,
+    "spending_ratio": 27.16,
+    "join_date": "2022-10-11"
+  },
+  {
+    "customer_id": 100142,
+    "spending_ratio": null,
+    "join_date": "2023-05-03"
+  },
+  {
+    "customer_id": 100143,
+    "spending_ratio": 42.73,
+    "join_date": "2011-11-03"
+  },
+  {
+    "customer_id": 100144,
+    "spending_ratio": 55.87,
+    "join_date": "2023-02-03"
+  },
+  {
+    "customer_id": 100145,
+    "spending_ratio": 89.12,
+    "join_date": "2017-02-04"
+  },
+  {
+    "customer_id": 100146,
+    "spending_ratio": 65.28,
+    "join_date": "2014-08-01"
+  },
+  {
+    "customer_id": 100147,
+    "spending_ratio": 26.48,
+    "join_date": "2017-01-17"
+  },
+  {
+    "customer_id": 100148,
+    "spending_ratio": 16.78,
+    "join_date": "2018-11-17"
+  },
+  {
+    "customer_id": 100149,
+    "spending_ratio": 32.0,
+    "join_date": "2024-06-23"
+  },
+  {
+    "customer_id": 100150,
+    "spending_ratio": 88.61,
+    "join_date": "2017-02-03"
+  },
+  {
+    "customer_id": 100151,
+    "spending_ratio": 5.84,
+    "join_date": "2011-08-18"
+  },
+  {
+    "customer_id": 100152,
+    "spending_ratio": 94.86,
+    "join_date": "2023-12-07"
+  },
+  {
+    "customer_id": 100153,
+    "spending_ratio": 11.59,
+    "join_date": "2012-03-30"
+  },
+  {
+    "customer_id": 100154,
+    "spending_ratio": 50.53,
+    "join_date": "2014-10-13"
+  },
+  {
+    "customer_id": 100155,
+    "spending_ratio": 88.99,
+    "join_date": "2012-12-21"
+  },
+  {
+    "customer_id": 100156,
+    "spending_ratio": 84.13,
+    "join_date": "2011-07-18"
+  },
+  {
+    "customer_id": 100157,
+    "spending_ratio": 30.65,
+    "join_date": "2018-04-16"
+  },
+  {
+    "customer_id": 100158,
+    "spending_ratio": 80.04,
+    "join_date": "2019-10-30"
+  },
+  {
+    "customer_id": 100159,
+    "spending_ratio": 32.23,
+    "join_date": "2025-10-12"
+  },
+  {
+    "customer_id": 100160,
+    "spending_ratio": 52.6,
+    "join_date": "2024-09-01"
+  },
+  {
+    "customer_id": 100161,
+    "spending_ratio": 78.54,
+    "join_date": "2024-12-24"
+  },
+  {
+    "customer_id": 100162,
+    "spending_ratio": 88.86,
+    "join_date": "2016-09-18"
+  },
+  {
+    "customer_id": 100163,
+    "spending_ratio": 89.5,
+    "join_date": "2012-04-28"
+  },
+  {
+    "customer_id": 100164,
+    "spending_ratio": 28.8,
+    "join_date": "2013-01-05"
+  },
+  {
+    "customer_id": 100165,
+    "spending_ratio": 71.82,
+    "join_date": "2012-05-26"
+  },
+  {
+    "customer_id": 100166,
+    "spending_ratio": 29.51,
+    "join_date": "2013-06-27"
+  },
+  {
+    "customer_id": 100167,
+    "spending_ratio": 23.96,
+    "join_date": "2023-07-26"
+  },
+  {
+    "customer_id": 100168,
+    "spending_ratio": 23.32,
+    "join_date": "2017-09-09"
+  },
+  {
+    "customer_id": 100169,
+    "spending_ratio": null,
+    "join_date": "2024-03-23"
+  },
+  {
+    "customer_id": 100170,
+    "spending_ratio": 48.97,
+    "join_date": "2021-05-03"
+  },
+  {
+    "customer_id": 100171,
+    "spending_ratio": 13.31,
+    "join_date": "2011-02-21"
+  },
+  {
+    "customer_id": 100172,
+    "spending_ratio": 79.64,
+    "join_date": "2019-07-02"
+  },
+  {
+    "customer_id": 100173,
+    "spending_ratio": 5.32,
+    "join_date": "2010-12-28"
+  },
+  {
+    "customer_id": 100174,
+    "spending_ratio": null,
+    "join_date": "2012-12-07"
+  },
+  {
+    "customer_id": 100175,
+    "spending_ratio": null,
+    "join_date": "2015-11-16"
+  },
+  {
+    "customer_id": 100176,
+    "spending_ratio": 54.65,
+    "join_date": "2019-11-29"
+  },
+  {
+    "customer_id": 100177,
+    "spending_ratio": 55.48,
+    "join_date": "2019-08-05"
+  },
+  {
+    "customer_id": 100178,
+    "spending_ratio": 11.77,
+    "join_date": "2012-07-05"
+  },
+  {
+    "customer_id": 100179,
+    "spending_ratio": 86.35,
+    "join_date": "2025-07-01"
+  },
+  {
+    "customer_id": 100180,
+    "spending_ratio": 8.24,
+    "join_date": "2022-03-28"
+  },
+  {
+    "customer_id": 100181,
+    "spending_ratio": 57.43,
+    "join_date": "2018-04-13"
+  },
+  {
+    "customer_id": 100182,
+    "spending_ratio": 43.68,
+    "join_date": "2013-04-28"
+  },
+  {
+    "customer_id": 100183,
+    "spending_ratio": 32.74,
+    "join_date": "2010-12-09"
+  },
+  {
+    "customer_id": 100184,
+    "spending_ratio": 85.9,
+    "join_date": "2010-11-23"
+  },
+  {
+    "customer_id": 100185,
+    "spending_ratio": 66.39,
+    "join_date": "2014-09-17"
+  },
+  {
+    "customer_id": 100186,
+    "spending_ratio": 14.25,
+    "join_date": "2024-12-16"
+  },
+  {
+    "customer_id": 100187,
+    "spending_ratio": 84.57,
+    "join_date": "2022-07-23"
+  },
+  {
+    "customer_id": 100188,
+    "spending_ratio": 92.65,
+    "join_date": "2019-02-12"
+  },
+  {
+    "customer_id": 100189,
+    "spending_ratio": 88.32,
+    "join_date": "2013-06-20"
+  },
+  {
+    "customer_id": 100190,
+    "spending_ratio": 82.81,
+    "join_date": "2015-04-24"
+  },
+  {
+    "customer_id": 100191,
+    "spending_ratio": 84.33,
+    "join_date": "2013-12-21"
+  },
+  {
+    "customer_id": 100192,
+    "spending_ratio": 21.14,
+    "join_date": "2010-07-23"
+  },
+  {
+    "customer_id": 100193,
+    "spending_ratio": 75.41,
+    "join_date": "2017-06-14"
+  },
+  {
+    "customer_id": 100194,
+    "spending_ratio": 77.2,
+    "join_date": "2019-03-27"
+  },
+  {
+    "customer_id": 100195,
+    "spending_ratio": 29.01,
+    "join_date": "2015-07-26"
+  },
+  {
+    "customer_id": 100196,
+    "spending_ratio": 14.73,
+    "join_date": "2025-09-23"
+  },
+  {
+    "customer_id": 100197,
+    "spending_ratio": 82.27,
+    "join_date": "2010-11-14"
+  },
+  {
+    "customer_id": 100198,
+    "spending_ratio": 22.96,
+    "join_date": "2014-12-28"
+  },
+  {
+    "customer_id": 100199,
+    "spending_ratio": 36.47,
+    "join_date": "2020-04-28"
+  },
+  {
+    "customer_id": 100200,
+    "spending_ratio": 25.06,
+    "join_date": "2015-02-08"
+  },
+  {
+    "customer_id": 100201,
+    "spending_ratio": 22.38,
+    "join_date": "2024-10-20"
+  },
+  {
+    "customer_id": 100202,
+    "spending_ratio": 30.07,
+    "join_date": "2017-05-13"
+  },
+  {
+    "customer_id": 100203,
+    "spending_ratio": 92.02,
+    "join_date": "2011-07-23"
+  },
+  {
+    "customer_id": 100204,
+    "spending_ratio": 36.6,
+    "join_date": "2016-04-05"
+  },
+  {
+    "customer_id": 100205,
+    "spending_ratio": 40.97,
+    "join_date": "2021-06-05"
+  },
+  {
+    "customer_id": 100206,
+    "spending_ratio": 34.8,
+    "join_date": "2022-01-10"
+  },
+  {
+    "customer_id": 100207,
+    "spending_ratio": 15.38,
+    "join_date": "2010-08-15"
+  },
+  {
+    "customer_id": 100208,
+    "spending_ratio": 21.07,
+    "join_date": "2015-11-10"
+  },
+  {
+    "customer_id": 100209,
+    "spending_ratio": 8.44,
+    "join_date": "2015-12-15"
+  },
+  {
+    "customer_id": 100210,
+    "spending_ratio": 44.11,
+    "join_date": "2023-05-20"
+  },
+  {
+    "customer_id": 100211,
+    "spending_ratio": 75.78,
+    "join_date": "2026-05-05"
+  },
+  {
+    "customer_id": 100212,
+    "spending_ratio": 59.56,
+    "join_date": "2019-10-15"
+  },
+  {
+    "customer_id": 100213,
+    "spending_ratio": 15.41,
+    "join_date": "2021-06-21"
+  },
+  {
+    "customer_id": 100214,
+    "spending_ratio": 22.11,
+    "join_date": "2022-12-07"
+  },
+  {
+    "customer_id": 100215,
+    "spending_ratio": null,
+    "join_date": "2010-12-30"
+  },
+  {
+    "customer_id": 100216,
+    "spending_ratio": 51.79,
+    "join_date": "2010-01-14"
+  },
+  {
+    "customer_id": 100217,
+    "spending_ratio": 66.82,
+    "join_date": "2022-01-28"
+  },
+  {
+    "customer_id": 100218,
+    "spending_ratio": 22.73,
+    "join_date": "2025-01-15"
+  },
+  {
+    "customer_id": 100219,
+    "spending_ratio": 11.3,
+    "join_date": "2019-09-04"
+  },
+  {
+    "customer_id": 100220,
+    "spending_ratio": 87.87,
+    "join_date": "2024-11-24"
+  },
+  {
+    "customer_id": 100221,
+    "spending_ratio": 33.25,
+    "join_date": "2023-12-23"
+  },
+  {
+    "customer_id": 100222,
+    "spending_ratio": 69.78,
+    "join_date": "2012-10-17"
+  },
+  {
+    "customer_id": 100223,
+    "spending_ratio": 50.64,
+    "join_date": "2016-09-26"
+  },
+  {
+    "customer_id": 100224,
+    "spending_ratio": 41.76,
+    "join_date": "2024-12-16"
+  },
+  {
+    "customer_id": 100225,
+    "spending_ratio": 67.75,
+    "join_date": "2019-01-10"
+  },
+  {
+    "customer_id": 100226,
+    "spending_ratio": 16.46,
+    "join_date": "2022-06-08"
+  },
+  {
+    "customer_id": 100227,
+    "spending_ratio": 64.84,
+    "join_date": "2019-06-07"
+  },
+  {
+    "customer_id": 100228,
+    "spending_ratio": 65.96,
+    "join_date": "2018-07-03"
+  },
+  {
+    "customer_id": 100229,
+    "spending_ratio": 60.4,
+    "join_date": "2013-11-26"
+  },
+  {
+    "customer_id": 100230,
+    "spending_ratio": 41.55,
+    "join_date": "2016-10-01"
+  },
+  {
+    "customer_id": 100231,
+    "spending_ratio": 32.35,
+    "join_date": "2010-01-04"
+  },
+  {
+    "customer_id": 100232,
+    "spending_ratio": 43.69,
+    "join_date": "2014-09-18"
+  },
+  {
+    "customer_id": 100233,
+    "spending_ratio": 59.6,
+    "join_date": "2023-01-04"
+  },
+  {
+    "customer_id": 100234,
+    "spending_ratio": 46.85,
+    "join_date": "2017-03-24"
+  },
+  {
+    "customer_id": 100235,
+    "spending_ratio": 65.81,
+    "join_date": "2019-12-02"
+  },
+  {
+    "customer_id": 100236,
+    "spending_ratio": 47.59,
+    "join_date": "2021-06-19"
+  },
+  {
+    "customer_id": 100237,
+    "spending_ratio": 64.3,
+    "join_date": "2013-10-22"
+  },
+  {
+    "customer_id": 100238,
+    "spending_ratio": 51.39,
+    "join_date": "2016-05-13"
+  },
+  {
+    "customer_id": 100239,
+    "spending_ratio": 60.73,
+    "join_date": "2024-03-13"
+  },
+  {
+    "customer_id": 100240,
+    "spending_ratio": 78.66,
+    "join_date": "2012-02-05"
+  },
+  {
+    "customer_id": 100241,
+    "spending_ratio": 65.55,
+    "join_date": "2015-04-09"
+  },
+  {
+    "customer_id": 100242,
+    "spending_ratio": 77.59,
+    "join_date": "2015-01-15"
+  },
+  {
+    "customer_id": 100243,
+    "spending_ratio": 7.2,
+    "join_date": "2013-04-22"
+  },
+  {
+    "customer_id": 100244,
+    "spending_ratio": 93.55,
+    "join_date": "2015-06-29"
+  },
+  {
+    "customer_id": 100245,
+    "spending_ratio": 81.48,
+    "join_date": "2023-09-17"
+  },
+  {
+    "customer_id": 100246,
+    "spending_ratio": 45.99,
+    "join_date": "2011-08-20"
+  },
+  {
+    "customer_id": 100247,
+    "spending_ratio": 56.81,
+    "join_date": "2024-02-16"
+  },
+  {
+    "customer_id": 100248,
+    "spending_ratio": 67.67,
+    "join_date": "2026-02-10"
+  },
+  {
+    "customer_id": 100249,
+    "spending_ratio": 40.97,
+    "join_date": "2021-02-01"
+  },
+  {
+    "customer_id": 100250,
+    "spending_ratio": 64.05,
+    "join_date": "2013-04-23"
+  },
+  {
+    "customer_id": 100251,
+    "spending_ratio": 85.34,
+    "join_date": "2010-02-15"
+  },
+  {
+    "customer_id": 100252,
+    "spending_ratio": null,
+    "join_date": "2012-05-23"
+  },
+  {
+    "customer_id": 100253,
+    "spending_ratio": 20.83,
+    "join_date": "2014-11-28"
+  },
+  {
+    "customer_id": 100254,
+    "spending_ratio": 51.62,
+    "join_date": "2025-08-10"
+  },
+  {
+    "customer_id": 100255,
+    "spending_ratio": 55.17,
+    "join_date": "2011-02-16"
+  },
+  {
+    "customer_id": 100256,
+    "spending_ratio": 46.08,
+    "join_date": "2012-09-21"
+  },
+  {
+    "customer_id": 100257,
+    "spending_ratio": 65.08,
+    "join_date": "2020-06-03"
+  },
+  {
+    "customer_id": 100258,
+    "spending_ratio": 58.59,
+    "join_date": "2022-07-15"
+  },
+  {
+    "customer_id": 100259,
+    "spending_ratio": 60.14,
+    "join_date": "2019-12-05"
+  },
+  {
+    "customer_id": 100260,
+    "spending_ratio": 85.28,
+    "join_date": "2026-02-18"
+  },
+  {
+    "customer_id": 100261,
+    "spending_ratio": 79.75,
+    "join_date": "2019-07-28"
+  },
+  {
+    "customer_id": 100262,
+    "spending_ratio": 45.13,
+    "join_date": "2022-04-16"
+  },
+  {
+    "customer_id": 100263,
+    "spending_ratio": null,
+    "join_date": "2013-07-27"
+  },
+  {
+    "customer_id": 100264,
+    "spending_ratio": 45.51,
+    "join_date": "2020-08-24"
+  },
+  {
+    "customer_id": 100265,
+    "spending_ratio": 80.59,
+    "join_date": "2015-07-19"
+  },
+  {
+    "customer_id": 100266,
+    "spending_ratio": 73.92,
+    "join_date": "2016-03-21"
+  },
+  {
+    "customer_id": 100267,
+    "spending_ratio": 48.61,
+    "join_date": "2021-09-10"
+  },
+  {
+    "customer_id": 100268,
+    "spending_ratio": 29.71,
+    "join_date": "2015-05-14"
+  },
+  {
+    "customer_id": 100269,
+    "spending_ratio": 69.22,
+    "join_date": "2011-09-27"
+  },
+  {
+    "customer_id": 100270,
+    "spending_ratio": 29.45,
+    "join_date": "2015-04-05"
+  },
+  {
+    "customer_id": 100271,
+    "spending_ratio": 85.37,
+    "join_date": "2017-03-04"
+  },
+  {
+    "customer_id": 100272,
+    "spending_ratio": 17.45,
+    "join_date": "2011-10-23"
+  },
+  {
+    "customer_id": 100273,
+    "spending_ratio": 39.47,
+    "join_date": "2015-03-10"
+  },
+  {
+    "customer_id": 100274,
+    "spending_ratio": 68.58,
+    "join_date": "2013-06-05"
+  },
+  {
+    "customer_id": 100275,
+    "spending_ratio": 42.34,
+    "join_date": "2011-06-11"
+  },
+  {
+    "customer_id": 100276,
+    "spending_ratio": 53.84,
+    "join_date": "2017-06-03"
+  },
+  {
+    "customer_id": 100277,
+    "spending_ratio": 10.6,
+    "join_date": "2019-04-30"
+  },
+  {
+    "customer_id": 100278,
+    "spending_ratio": 40.05,
+    "join_date": "2019-06-04"
+  },
+  {
+    "customer_id": 100279,
+    "spending_ratio": 90.15,
+    "join_date": "2023-02-06"
+  },
+  {
+    "customer_id": 100280,
+    "spending_ratio": 82.11,
+    "join_date": "2010-06-10"
+  },
+  {
+    "customer_id": 100281,
+    "spending_ratio": 39.23,
+    "join_date": "2022-11-30"
+  },
+  {
+    "customer_id": 100282,
+    "spending_ratio": 89.85,
+    "join_date": "2010-02-18"
+  },
+  {
+    "customer_id": 100283,
+    "spending_ratio": 72.81,
+    "join_date": "2016-09-12"
+  },
+  {
+    "customer_id": 100284,
+    "spending_ratio": 53.44,
+    "join_date": "2019-05-26"
+  },
+  {
+    "customer_id": 100285,
+    "spending_ratio": 76.99,
+    "join_date": "2022-04-01"
+  },
+  {
+    "customer_id": 100286,
+    "spending_ratio": 48.94,
+    "join_date": "2014-12-12"
+  },
+  {
+    "customer_id": 100287,
+    "spending_ratio": 44.23,
+    "join_date": "2016-02-14"
+  },
+  {
+    "customer_id": 100288,
+    "spending_ratio": 40.0,
+    "join_date": "2010-08-26"
+  },
+  {
+    "customer_id": 100289,
+    "spending_ratio": 66.12,
+    "join_date": "2025-01-01"
+  },
+  {
+    "customer_id": 100290,
+    "spending_ratio": 70.18,
+    "join_date": "2019-01-26"
+  },
+  {
+    "customer_id": 100291,
+    "spending_ratio": null,
+    "join_date": "2020-06-25"
+  },
+  {
+    "customer_id": 100292,
+    "spending_ratio": 53.07,
+    "join_date": "2023-12-16"
+  },
+  {
+    "customer_id": 100293,
+    "spending_ratio": 58.27,
+    "join_date": "2018-11-02"
+  },
+  {
+    "customer_id": 100294,
+    "spending_ratio": 7.44,
+    "join_date": "2024-11-14"
+  },
+  {
+    "customer_id": 100295,
+    "spending_ratio": 43.58,
+    "join_date": "2024-06-01"
+  },
+  {
+    "customer_id": 100296,
+    "spending_ratio": 21.36,
+    "join_date": "2020-05-10"
+  },
+  {
+    "customer_id": 100297,
+    "spending_ratio": 39.12,
+    "join_date": "2015-11-02"
+  },
+  {
+    "customer_id": 100298,
+    "spending_ratio": 45.92,
+    "join_date": "2014-09-30"
+  },
+  {
+    "customer_id": 100299,
+    "spending_ratio": 73.51,
+    "join_date": "2017-07-27"
+  },
+  {
+    "customer_id": 100300,
+    "spending_ratio": 30.04,
+    "join_date": "2018-07-03"
+  },
+  {
+    "customer_id": 100301,
+    "spending_ratio": 27.7,
+    "join_date": "2019-06-16"
+  },
+  {
+    "customer_id": 100302,
+    "spending_ratio": 47.33,
+    "join_date": "2011-11-02"
+  },
+  {
+    "customer_id": 100303,
+    "spending_ratio": 9.69,
+    "join_date": "2022-02-05"
+  },
+  {
+    "customer_id": 100304,
+    "spending_ratio": 25.18,
+    "join_date": "2017-11-06"
+  },
+  {
+    "customer_id": 100305,
+    "spending_ratio": 75.31,
+    "join_date": "2011-07-17"
+  },
+  {
+    "customer_id": 100306,
+    "spending_ratio": 8.62,
+    "join_date": "2024-08-14"
+  },
+  {
+    "customer_id": 100307,
+    "spending_ratio": 90.47,
+    "join_date": "2010-09-12"
+  },
+  {
+    "customer_id": 100308,
+    "spending_ratio": 80.53,
+    "join_date": "2014-06-22"
+  },
+  {
+    "customer_id": 100309,
+    "spending_ratio": 18.71,
+    "join_date": "2023-12-08"
+  },
+  {
+    "customer_id": 100310,
+    "spending_ratio": 47.62,
+    "join_date": "2012-10-31"
+  },
+  {
+    "customer_id": 100311,
+    "spending_ratio": 55.76,
+    "join_date": "2012-07-26"
+  },
+  {
+    "customer_id": 100312,
+    "spending_ratio": 46.85,
+    "join_date": "2014-11-21"
+  },
+  {
+    "customer_id": 100313,
+    "spending_ratio": 74.02,
+    "join_date": "2015-10-01"
+  },
+  {
+    "customer_id": 100314,
+    "spending_ratio": 59.53,
+    "join_date": "2013-10-06"
+  },
+  {
+    "customer_id": 100315,
+    "spending_ratio": 15.31,
+    "join_date": "2026-02-10"
+  },
+  {
+    "customer_id": 100316,
+    "spending_ratio": 91.82,
+    "join_date": "2013-09-03"
+  },
+  {
+    "customer_id": 100317,
+    "spending_ratio": 57.08,
+    "join_date": "2012-06-04"
+  },
+  {
+    "customer_id": 100318,
+    "spending_ratio": 56.82,
+    "join_date": "2016-12-30"
+  },
+  {
+    "customer_id": 100319,
+    "spending_ratio": 40.7,
+    "join_date": "2018-06-02"
+  },
+  {
+    "customer_id": 100320,
+    "spending_ratio": 22.85,
+    "join_date": "2026-01-14"
+  },
+  {
+    "customer_id": 100321,
+    "spending_ratio": 67.16,
+    "join_date": "2023-04-13"
+  },
+  {
+    "customer_id": 100322,
+    "spending_ratio": 26.86,
+    "join_date": "2024-01-26"
+  },
+  {
+    "customer_id": 100323,
+    "spending_ratio": 74.52,
+    "join_date": "2025-08-21"
+  },
+  {
+    "customer_id": 100324,
+    "spending_ratio": 59.04,
+    "join_date": "2025-05-07"
+  },
+  {
+    "customer_id": 100325,
+    "spending_ratio": 76.66,
+    "join_date": "2012-09-18"
+  },
+  {
+    "customer_id": 100326,
+    "spending_ratio": 75.44,
+    "join_date": "2022-09-11"
+  },
+  {
+    "customer_id": 100327,
+    "spending_ratio": 52.95,
+    "join_date": "2017-10-15"
+  },
+  {
+    "customer_id": 100328,
+    "spending_ratio": 38.35,
+    "join_date": "2024-11-02"
+  },
+  {
+    "customer_id": 100329,
+    "spending_ratio": 63.28,
+    "join_date": "2021-05-07"
+  },
+  {
+    "customer_id": 100330,
+    "spending_ratio": 81.46,
+    "join_date": "2010-04-14"
+  },
+  {
+    "customer_id": 100331,
+    "spending_ratio": 14.5,
+    "join_date": "2020-12-29"
+  },
+  {
+    "customer_id": 100332,
+    "spending_ratio": 62.2,
+    "join_date": "2018-02-15"
+  },
+  {
+    "customer_id": 100333,
+    "spending_ratio": 68.66,
+    "join_date": "2020-04-24"
+  },
+  {
+    "customer_id": 100334,
+    "spending_ratio": 20.85,
+    "join_date": "2019-10-08"
+  },
+  {
+    "customer_id": 100335,
+    "spending_ratio": 91.89,
+    "join_date": "2021-09-14"
+  },
+  {
+    "customer_id": 100336,
+    "spending_ratio": 60.43,
+    "join_date": "2016-01-22"
+  },
+  {
+    "customer_id": 100337,
+    "spending_ratio": 74.72,
+    "join_date": "2022-01-26"
+  },
+  {
+    "customer_id": 100338,
+    "spending_ratio": 44.2,
+    "join_date": "2020-06-05"
+  },
+  {
+    "customer_id": 100339,
+    "spending_ratio": 58.32,
+    "join_date": "2026-05-25"
+  },
+  {
+    "customer_id": 100340,
+    "spending_ratio": 81.65,
+    "join_date": "2017-03-25"
+  },
+  {
+    "customer_id": 100341,
+    "spending_ratio": 30.1,
+    "join_date": "2011-12-11"
+  },
+  {
+    "customer_id": 100342,
+    "spending_ratio": 26.95,
+    "join_date": "2020-02-10"
+  },
+  {
+    "customer_id": 100343,
+    "spending_ratio": 56.29,
+    "join_date": "2020-06-03"
+  },
+  {
+    "customer_id": 100344,
+    "spending_ratio": 39.11,
+    "join_date": "2024-12-26"
+  },
+  {
+    "customer_id": 100345,
+    "spending_ratio": 49.49,
+    "join_date": "2010-08-24"
+  },
+  {
+    "customer_id": 100346,
+    "spending_ratio": 21.37,
+    "join_date": "2017-04-16"
+  },
+  {
+    "customer_id": 100347,
+    "spending_ratio": 36.93,
+    "join_date": "2014-10-04"
+  },
+  {
+    "customer_id": 100348,
+    "spending_ratio": 35.63,
+    "join_date": "2015-10-18"
+  },
+  {
+    "customer_id": 100349,
+    "spending_ratio": 68.11,
+    "join_date": "2023-05-16"
+  },
+  {
+    "customer_id": 100350,
+    "spending_ratio": 55.02,
+    "join_date": "2016-03-13"
+  },
+  {
+    "customer_id": 100351,
+    "spending_ratio": 90.33,
+    "join_date": "2021-08-03"
+  },
+  {
+    "customer_id": 100352,
+    "spending_ratio": 26.72,
+    "join_date": "2011-12-03"
+  },
+  {
+    "customer_id": 100353,
+    "spending_ratio": 48.97,
+    "join_date": "2019-02-12"
+  },
+  {
+    "customer_id": 100354,
+    "spending_ratio": 67.15,
+    "join_date": "2015-05-23"
+  },
+  {
+    "customer_id": 100355,
+    "spending_ratio": 69.07,
+    "join_date": "2024-06-27"
+  },
+  {
+    "customer_id": 100356,
+    "spending_ratio": 76.36,
+    "join_date": "2020-01-20"
+  },
+  {
+    "customer_id": 100357,
+    "spending_ratio": 31.48,
+    "join_date": "2012-02-02"
+  },
+  {
+    "customer_id": 100358,
+    "spending_ratio": 67.26,
+    "join_date": "2019-01-26"
+  },
+  {
+    "customer_id": 100359,
+    "spending_ratio": 64.76,
+    "join_date": "2016-11-13"
+  },
+  {
+    "customer_id": 100360,
+    "spending_ratio": 47.59,
+    "join_date": "2018-04-12"
+  },
+  {
+    "customer_id": 100361,
+    "spending_ratio": 35.94,
+    "join_date": "2021-11-28"
+  },
+  {
+    "customer_id": 100362,
+    "spending_ratio": 34.77,
+    "join_date": "2022-05-06"
+  },
+  {
+    "customer_id": 100363,
+    "spending_ratio": 45.84,
+    "join_date": "2025-10-06"
+  },
+  {
+    "customer_id": 100364,
+    "spending_ratio": 27.63,
+    "join_date": "2016-11-16"
+  },
+  {
+    "customer_id": 100365,
+    "spending_ratio": 69.92,
+    "join_date": "2012-09-15"
+  },
+  {
+    "customer_id": 100366,
+    "spending_ratio": 15.76,
+    "join_date": "2017-01-28"
+  },
+  {
+    "customer_id": 100367,
+    "spending_ratio": 90.58,
+    "join_date": "2022-01-07"
+  },
+  {
+    "customer_id": 100368,
+    "spending_ratio": 21.66,
+    "join_date": "2025-06-24"
+  },
+  {
+    "customer_id": 100369,
+    "spending_ratio": 71.47,
+    "join_date": "2014-11-08"
+  },
+  {
+    "customer_id": 100370,
+    "spending_ratio": 70.21,
+    "join_date": "2016-03-15"
+  },
+  {
+    "customer_id": 100371,
+    "spending_ratio": 58.71,
+    "join_date": "2021-10-07"
+  },
+  {
+    "customer_id": 100372,
+    "spending_ratio": 79.94,
+    "join_date": "2012-04-03"
+  },
+  {
+    "customer_id": 100373,
+    "spending_ratio": 25.47,
+    "join_date": "2016-08-23"
+  },
+  {
+    "customer_id": 100374,
+    "spending_ratio": 32.2,
+    "join_date": "2014-01-09"
+  },
+  {
+    "customer_id": 100375,
+    "spending_ratio": 53.07,
+    "join_date": "2025-11-18"
+  },
+  {
+    "customer_id": 100376,
+    "spending_ratio": 9.1,
+    "join_date": "2016-02-26"
+  },
+  {
+    "customer_id": 100377,
+    "spending_ratio": 54.8,
+    "join_date": "2011-03-23"
+  },
+  {
+    "customer_id": 100378,
+    "spending_ratio": 89.97,
+    "join_date": "2025-08-23"
+  },
+  {
+    "customer_id": 100379,
+    "spending_ratio": 83.16,
+    "join_date": "2024-04-22"
+  },
+  {
+    "customer_id": 100380,
+    "spending_ratio": 14.23,
+    "join_date": "2021-01-04"
+  },
+  {
+    "customer_id": 100381,
+    "spending_ratio": 56.67,
+    "join_date": "2010-04-11"
+  },
+  {
+    "customer_id": 100382,
+    "spending_ratio": 48.08,
+    "join_date": "2020-07-12"
+  },
+  {
+    "customer_id": 100383,
+    "spending_ratio": 21.59,
+    "join_date": "2017-08-23"
+  },
+  {
+    "customer_id": 100384,
+    "spending_ratio": 27.72,
+    "join_date": "2011-02-25"
+  },
+  {
+    "customer_id": 100385,
+    "spending_ratio": 15.27,
+    "join_date": "2020-09-18"
+  },
+  {
+    "customer_id": 100386,
+    "spending_ratio": 41.06,
+    "join_date": "2011-06-20"
+  },
+  {
+    "customer_id": 100387,
+    "spending_ratio": 56.93,
+    "join_date": "2011-08-30"
+  },
+  {
+    "customer_id": 100388,
+    "spending_ratio": null,
+    "join_date": "2025-05-25"
+  },
+  {
+    "customer_id": 100389,
+    "spending_ratio": 78.0,
+    "join_date": "2013-05-07"
+  },
+  {
+    "customer_id": 100390,
+    "spending_ratio": null,
+    "join_date": "2016-10-25"
+  },
+  {
+    "customer_id": 100391,
+    "spending_ratio": 15.66,
+    "join_date": "2015-07-27"
+  },
+  {
+    "customer_id": 100392,
+    "spending_ratio": 59.57,
+    "join_date": "2019-05-03"
+  },
+  {
+    "customer_id": 100393,
+    "spending_ratio": 25.31,
+    "join_date": "2023-11-15"
+  },
+  {
+    "customer_id": 100394,
+    "spending_ratio": 39.23,
+    "join_date": "2021-09-20"
+  },
+  {
+    "customer_id": 100395,
+    "spending_ratio": 31.76,
+    "join_date": "2019-12-06"
+  },
+  {
+    "customer_id": 100396,
+    "spending_ratio": 94.1,
+    "join_date": "2023-03-15"
+  },
+  {
+    "customer_id": 100397,
+    "spending_ratio": 56.18,
+    "join_date": "2016-11-06"
+  },
+  {
+    "customer_id": 100398,
+    "spending_ratio": 59.87,
+    "join_date": "2011-05-09"
+  },
+  {
+    "customer_id": 100399,
+    "spending_ratio": 90.28,
+    "join_date": "2012-03-23"
+  },
+  {
+    "customer_id": 100400,
+    "spending_ratio": 61.3,
+    "join_date": "2014-08-30"
+  },
+  {
+    "customer_id": 100401,
+    "spending_ratio": 64.44,
+    "join_date": "2015-12-08"
+  },
+  {
+    "customer_id": 100402,
+    "spending_ratio": 26.59,
+    "join_date": "2013-07-10"
+  },
+  {
+    "customer_id": 100403,
+    "spending_ratio": 11.76,
+    "join_date": "2022-05-19"
+  },
+  {
+    "customer_id": 100404,
+    "spending_ratio": 41.77,
+    "join_date": "2010-01-22"
+  },
+  {
+    "customer_id": 100405,
+    "spending_ratio": 58.44,
+    "join_date": "2025-06-18"
+  },
+  {
+    "customer_id": 100406,
+    "spending_ratio": 7.94,
+    "join_date": "2016-07-13"
+  },
+  {
+    "customer_id": 100407,
+    "spending_ratio": 68.63,
+    "join_date": "2016-06-18"
+  },
+  {
+    "customer_id": 100408,
+    "spending_ratio": 82.36,
+    "join_date": "2025-10-07"
+  },
+  {
+    "customer_id": 100409,
+    "spending_ratio": 66.86,
+    "join_date": "2011-08-07"
+  },
+  {
+    "customer_id": 100410,
+    "spending_ratio": 75.9,
+    "join_date": "2015-12-08"
+  },
+  {
+    "customer_id": 100411,
+    "spending_ratio": 58.08,
+    "join_date": "2024-01-08"
+  },
+  {
+    "customer_id": 100412,
+    "spending_ratio": 43.26,
+    "join_date": "2014-06-09"
+  },
+  {
+    "customer_id": 100413,
+    "spending_ratio": 25.23,
+    "join_date": "2022-03-20"
+  },
+  {
+    "customer_id": 100414,
+    "spending_ratio": null,
+    "join_date": "2013-05-05"
+  },
+  {
+    "customer_id": 100415,
+    "spending_ratio": 11.43,
+    "join_date": "2013-03-11"
+  },
+  {
+    "customer_id": 100416,
+    "spending_ratio": 76.34,
+    "join_date": "2013-09-21"
+  },
+  {
+    "customer_id": 100417,
+    "spending_ratio": 72.41,
+    "join_date": "2023-05-07"
+  },
+  {
+    "customer_id": 100418,
+    "spending_ratio": 87.91,
+    "join_date": "2022-10-07"
+  },
+  {
+    "customer_id": 100419,
+    "spending_ratio": 16.19,
+    "join_date": "2019-11-07"
+  },
+  {
+    "customer_id": 100420,
+    "spending_ratio": 32.37,
+    "join_date": "2025-06-12"
+  },
+  {
+    "customer_id": 100421,
+    "spending_ratio": 89.84,
+    "join_date": "2019-01-11"
+  },
+  {
+    "customer_id": 100422,
+    "spending_ratio": 53.6,
+    "join_date": "2021-03-23"
+  },
+  {
+    "customer_id": 100423,
+    "spending_ratio": 12.24,
+    "join_date": "2019-10-27"
+  },
+  {
+    "customer_id": 100424,
+    "spending_ratio": 85.05,
+    "join_date": "2010-11-23"
+  },
+  {
+    "customer_id": 100425,
+    "spending_ratio": 220.2,
+    "join_date": "2017-03-25"
+  },
+  {
+    "customer_id": 100426,
+    "spending_ratio": 13.22,
+    "join_date": "2010-07-31"
+  },
+  {
+    "customer_id": 100427,
+    "spending_ratio": 80.24,
+    "join_date": "2025-02-14"
+  },
+  {
+    "customer_id": 100428,
+    "spending_ratio": 57.84,
+    "join_date": "2022-11-26"
+  },
+  {
+    "customer_id": 100429,
+    "spending_ratio": 94.96,
+    "join_date": "2010-06-19"
+  },
+  {
+    "customer_id": 100430,
+    "spending_ratio": 78.93,
+    "join_date": "2025-01-29"
+  },
+  {
+    "customer_id": 100431,
+    "spending_ratio": 8.62,
+    "join_date": "2022-12-04"
+  },
+  {
+    "customer_id": 100432,
+    "spending_ratio": 47.35,
+    "join_date": "2013-12-06"
+  },
+  {
+    "customer_id": 100433,
+    "spending_ratio": 44.8,
+    "join_date": "2024-08-12"
+  },
+  {
+    "customer_id": 100434,
+    "spending_ratio": 21.33,
+    "join_date": "2016-03-28"
+  },
+  {
+    "customer_id": 100435,
+    "spending_ratio": 44.23,
+    "join_date": "2023-02-17"
+  },
+  {
+    "customer_id": 100436,
+    "spending_ratio": 92.21,
+    "join_date": "2021-01-11"
+  },
+  {
+    "customer_id": 100437,
+    "spending_ratio": 36.32,
+    "join_date": "2020-07-17"
+  },
+  {
+    "customer_id": 100438,
+    "spending_ratio": 33.9,
+    "join_date": "2017-06-23"
+  },
+  {
+    "customer_id": 100439,
+    "spending_ratio": 82.2,
+    "join_date": "2012-05-06"
+  },
+  {
+    "customer_id": 100440,
+    "spending_ratio": 42.05,
+    "join_date": "2017-05-25"
+  },
+  {
+    "customer_id": 100441,
+    "spending_ratio": 30.94,
+    "join_date": "2021-02-10"
+  },
+  {
+    "customer_id": 100442,
+    "spending_ratio": null,
+    "join_date": "2018-12-25"
+  },
+  {
+    "customer_id": 100443,
+    "spending_ratio": 8.3,
+    "join_date": "2022-05-04"
+  },
+  {
+    "customer_id": 100444,
+    "spending_ratio": 33.31,
+    "join_date": "2011-12-23"
+  },
+  {
+    "customer_id": 100445,
+    "spending_ratio": 15.43,
+    "join_date": "2017-04-02"
+  },
+  {
+    "customer_id": 100446,
+    "spending_ratio": 82.84,
+    "join_date": "2019-01-25"
+  },
+  {
+    "customer_id": 100447,
+    "spending_ratio": 64.19,
+    "join_date": "2010-01-10"
+  },
+  {
+    "customer_id": 100448,
+    "spending_ratio": 46.58,
+    "join_date": "2022-03-03"
+  },
+  {
+    "customer_id": 100449,
+    "spending_ratio": 21.88,
+    "join_date": "2011-03-21"
+  },
+  {
+    "customer_id": 100450,
+    "spending_ratio": 61.04,
+    "join_date": "2018-02-11"
+  },
+  {
+    "customer_id": 100451,
+    "spending_ratio": 61.29,
+    "join_date": "2021-03-07"
+  },
+  {
+    "customer_id": 100452,
+    "spending_ratio": 23.32,
+    "join_date": "2011-02-27"
+  },
+  {
+    "customer_id": 100453,
+    "spending_ratio": 16.79,
+    "join_date": "2022-04-27"
+  },
+  {
+    "customer_id": 100454,
+    "spending_ratio": 44.43,
+    "join_date": "2016-06-17"
+  },
+  {
+    "customer_id": 100455,
+    "spending_ratio": 48.62,
+    "join_date": "2025-08-30"
+  },
+  {
+    "customer_id": 100456,
+    "spending_ratio": 92.58,
+    "join_date": "2010-08-25"
+  },
+  {
+    "customer_id": 100457,
+    "spending_ratio": 76.94,
+    "join_date": "2023-08-28"
+  },
+  {
+    "customer_id": 100458,
+    "spending_ratio": 19.25,
+    "join_date": "2025-12-02"
+  },
+  {
+    "customer_id": 100459,
+    "spending_ratio": 6.23,
+    "join_date": "2022-05-10"
+  },
+  {
+    "customer_id": 100460,
+    "spending_ratio": null,
+    "join_date": "2019-02-25"
+  },
+  {
+    "customer_id": 100461,
+    "spending_ratio": 46.53,
+    "join_date": "2012-07-18"
+  },
+  {
+    "customer_id": 100462,
+    "spending_ratio": 63.29,
+    "join_date": "2012-08-20"
+  },
+  {
+    "customer_id": 100463,
+    "spending_ratio": 49.85,
+    "join_date": "2013-06-15"
+  },
+  {
+    "customer_id": 100464,
+    "spending_ratio": 31.27,
+    "join_date": "2026-01-27"
+  },
+  {
+    "customer_id": 100465,
+    "spending_ratio": null,
+    "join_date": "2025-10-27"
+  },
+  {
+    "customer_id": 100466,
+    "spending_ratio": 93.22,
+    "join_date": "2020-10-27"
+  },
+  {
+    "customer_id": 100467,
+    "spending_ratio": 46.11,
+    "join_date": "2015-06-20"
+  },
+  {
+    "customer_id": 100468,
+    "spending_ratio": 39.52,
+    "join_date": "2013-03-30"
+  },
+  {
+    "customer_id": 100469,
+    "spending_ratio": 50.74,
+    "join_date": "2023-06-12"
+  },
+  {
+    "customer_id": 100470,
+    "spending_ratio": 82.76,
+    "join_date": "2013-01-23"
+  },
+  {
+    "customer_id": 100471,
+    "spending_ratio": 74.54,
+    "join_date": "2016-03-13"
+  },
+  {
+    "customer_id": 100472,
+    "spending_ratio": 35.59,
+    "join_date": "2019-04-23"
+  },
+  {
+    "customer_id": 100473,
+    "spending_ratio": 29.05,
+    "join_date": "2021-05-22"
+  },
+  {
+    "customer_id": 100474,
+    "spending_ratio": 30.46,
+    "join_date": "2010-01-22"
+  },
+  {
+    "customer_id": 100475,
+    "spending_ratio": 80.37,
+    "join_date": "2016-09-11"
+  },
+  {
+    "customer_id": 100476,
+    "spending_ratio": 94.9,
+    "join_date": "2023-01-03"
+  },
+  {
+    "customer_id": 100477,
+    "spending_ratio": 82.87,
+    "join_date": "2020-12-25"
+  },
+  {
+    "customer_id": 100478,
+    "spending_ratio": null,
+    "join_date": "2020-01-07"
+  },
+  {
+    "customer_id": 100479,
+    "spending_ratio": 290.26,
+    "join_date": "2017-09-28"
+  },
+  {
+    "customer_id": 100480,
+    "spending_ratio": 38.95,
+    "join_date": "2022-03-10"
+  },
+  {
+    "customer_id": 100481,
+    "spending_ratio": 83.26,
+    "join_date": "2017-03-21"
+  },
+  {
+    "customer_id": 100482,
+    "spending_ratio": 26.49,
+    "join_date": "2025-08-23"
+  },
+  {
+    "customer_id": 100483,
+    "spending_ratio": null,
+    "join_date": "2018-08-04"
+  },
+  {
+    "customer_id": 100484,
+    "spending_ratio": 8.93,
+    "join_date": "2019-03-20"
+  },
+  {
+    "customer_id": 100485,
+    "spending_ratio": 68.47,
+    "join_date": "2020-08-10"
+  },
+  {
+    "customer_id": 100486,
+    "spending_ratio": 39.75,
+    "join_date": "2018-07-21"
+  },
+  {
+    "customer_id": 100487,
+    "spending_ratio": 76.32,
+    "join_date": "2024-11-19"
+  },
+  {
+    "customer_id": 100488,
+    "spending_ratio": 93.27,
+    "join_date": "2024-08-16"
+  },
+  {
+    "customer_id": 100489,
+    "spending_ratio": 91.83,
+    "join_date": "2021-02-09"
+  },
+  {
+    "customer_id": 100490,
+    "spending_ratio": 50.21,
+    "join_date": "2012-10-31"
+  },
+  {
+    "customer_id": 100491,
+    "spending_ratio": 34.88,
+    "join_date": "2023-03-28"
+  },
+  {
+    "customer_id": 100492,
+    "spending_ratio": null,
+    "join_date": "2012-04-02"
+  },
+  {
+    "customer_id": 100493,
+    "spending_ratio": 13.97,
+    "join_date": "2019-11-16"
+  },
+  {
+    "customer_id": 100494,
+    "spending_ratio": 6.38,
+    "join_date": "2020-04-01"
+  },
+  {
+    "customer_id": 100495,
+    "spending_ratio": 41.9,
+    "join_date": "2013-03-26"
+  },
+  {
+    "customer_id": 100496,
+    "spending_ratio": 92.3,
+    "join_date": "2024-09-07"
+  },
+  {
+    "customer_id": 100497,
+    "spending_ratio": 47.25,
+    "join_date": "2011-09-05"
+  },
+  {
+    "customer_id": 100498,
+    "spending_ratio": 35.47,
+    "join_date": "2015-12-12"
+  },
+  {
+    "customer_id": 100499,
+    "spending_ratio": 40.77,
+    "join_date": "2025-07-15"
+  },
+  {
+    "customer_id": 100500,
+    "spending_ratio": 81.66,
+    "join_date": "2011-10-20"
+  },
+  {
+    "customer_id": 100501,
+    "spending_ratio": 82.34,
+    "join_date": "2025-02-15"
+  },
+  {
+    "customer_id": 100502,
+    "spending_ratio": 268.18,
+    "join_date": "2018-07-11"
+  },
+  {
+    "customer_id": 100503,
+    "spending_ratio": 69.68,
+    "join_date": "2024-01-22"
+  },
+  {
+    "customer_id": 100504,
+    "spending_ratio": 83.51,
+    "join_date": "2020-12-11"
+  },
+  {
+    "customer_id": 100505,
+    "spending_ratio": 60.57,
+    "join_date": "2010-10-22"
+  },
+  {
+    "customer_id": 100506,
+    "spending_ratio": 61.8,
+    "join_date": "2015-04-08"
+  },
+  {
+    "customer_id": 100507,
+    "spending_ratio": 94.77,
+    "join_date": "2016-06-12"
+  },
+  {
+    "customer_id": 100508,
+    "spending_ratio": 44.06,
+    "join_date": "2012-01-11"
+  },
+  {
+    "customer_id": 100509,
+    "spending_ratio": 73.43,
+    "join_date": "2012-03-17"
+  },
+  {
+    "customer_id": 100510,
+    "spending_ratio": 83.53,
+    "join_date": "2025-10-15"
+  },
+  {
+    "customer_id": 100511,
+    "spending_ratio": 19.97,
+    "join_date": "2019-12-14"
+  },
+  {
+    "customer_id": 100512,
+    "spending_ratio": 86.31,
+    "join_date": "2016-09-19"
+  },
+  {
+    "customer_id": 100513,
+    "spending_ratio": 34.19,
+    "join_date": "2011-01-12"
+  },
+  {
+    "customer_id": 100514,
+    "spending_ratio": 31.4,
+    "join_date": "2011-04-05"
+  },
+  {
+    "customer_id": 100515,
+    "spending_ratio": 43.76,
+    "join_date": "2018-05-29"
+  },
+  {
+    "customer_id": 100516,
+    "spending_ratio": 52.8,
+    "join_date": "2015-06-24"
+  },
+  {
+    "customer_id": 100517,
+    "spending_ratio": 66.36,
+    "join_date": "2022-09-11"
+  },
+  {
+    "customer_id": 100518,
+    "spending_ratio": 20.3,
+    "join_date": "2014-01-15"
+  },
+  {
+    "customer_id": 100519,
+    "spending_ratio": 59.85,
+    "join_date": "2011-10-09"
+  },
+  {
+    "customer_id": 100520,
+    "spending_ratio": 60.77,
+    "join_date": "2018-07-31"
+  },
+  {
+    "customer_id": 100521,
+    "spending_ratio": 49.79,
+    "join_date": "2015-05-27"
+  },
+  {
+    "customer_id": 100522,
+    "spending_ratio": 17.88,
+    "join_date": "2023-01-30"
+  },
+  {
+    "customer_id": 100523,
+    "spending_ratio": 62.41,
+    "join_date": "2020-05-05"
+  },
+  {
+    "customer_id": 100524,
+    "spending_ratio": 27.98,
+    "join_date": "2020-04-22"
+  },
+  {
+    "customer_id": 100525,
+    "spending_ratio": 85.9,
+    "join_date": "2010-03-18"
+  },
+  {
+    "customer_id": 100526,
+    "spending_ratio": 86.11,
+    "join_date": "2020-06-08"
+  },
+  {
+    "customer_id": 100527,
+    "spending_ratio": 54.19,
+    "join_date": "2025-03-13"
+  },
+  {
+    "customer_id": 100528,
+    "spending_ratio": 44.76,
+    "join_date": "2011-08-29"
+  },
+  {
+    "customer_id": 100529,
+    "spending_ratio": 93.89,
+    "join_date": "2017-10-01"
+  },
+  {
+    "customer_id": 100530,
+    "spending_ratio": 62.5,
+    "join_date": "2016-09-16"
+  },
+  {
+    "customer_id": 100531,
+    "spending_ratio": 67.13,
+    "join_date": "2019-07-08"
+  },
+  {
+    "customer_id": 100532,
+    "spending_ratio": 81.08,
+    "join_date": "2020-03-31"
+  },
+  {
+    "customer_id": 100533,
+    "spending_ratio": 94.94,
+    "join_date": "2014-06-20"
+  },
+  {
+    "customer_id": 100534,
+    "spending_ratio": 14.6,
+    "join_date": "2020-11-02"
+  },
+  {
+    "customer_id": 100535,
+    "spending_ratio": 56.47,
+    "join_date": "2018-07-22"
+  },
+  {
+    "customer_id": 100536,
+    "spending_ratio": 31.63,
+    "join_date": "2022-11-22"
+  },
+  {
+    "customer_id": 100537,
+    "spending_ratio": 31.57,
+    "join_date": "2025-09-07"
+  },
+  {
+    "customer_id": 100538,
+    "spending_ratio": 40.62,
+    "join_date": "2024-10-06"
+  },
+  {
+    "customer_id": 100539,
+    "spending_ratio": 55.93,
+    "join_date": "2010-03-08"
+  },
+  {
+    "customer_id": 100540,
+    "spending_ratio": 75.05,
+    "join_date": "2025-05-20"
+  },
+  {
+    "customer_id": 100541,
+    "spending_ratio": 86.96,
+    "join_date": "2011-02-06"
+  },
+  {
+    "customer_id": 100542,
+    "spending_ratio": 79.96,
+    "join_date": "2021-02-21"
+  },
+  {
+    "customer_id": 100543,
+    "spending_ratio": 74.82,
+    "join_date": "2016-06-02"
+  },
+  {
+    "customer_id": 100544,
+    "spending_ratio": 59.64,
+    "join_date": "2015-03-01"
+  },
+  {
+    "customer_id": 100545,
+    "spending_ratio": 24.71,
+    "join_date": "2017-11-26"
+  },
+  {
+    "customer_id": 100546,
+    "spending_ratio": 60.88,
+    "join_date": "2014-04-07"
+  },
+  {
+    "customer_id": 100547,
+    "spending_ratio": 73.0,
+    "join_date": "2025-03-15"
+  },
+  {
+    "customer_id": 100548,
+    "spending_ratio": 66.28,
+    "join_date": "2024-10-14"
+  },
+  {
+    "customer_id": 100549,
+    "spending_ratio": 61.54,
+    "join_date": "2013-01-25"
+  },
+  {
+    "customer_id": 100550,
+    "spending_ratio": 63.17,
+    "join_date": "2024-01-28"
+  },
+  {
+    "customer_id": 100551,
+    "spending_ratio": 75.97,
+    "join_date": "2016-12-05"
+  },
+  {
+    "customer_id": 100552,
+    "spending_ratio": 57.16,
+    "join_date": "2010-10-01"
+  },
+  {
+    "customer_id": 100553,
+    "spending_ratio": 16.83,
+    "join_date": "2026-06-05"
+  },
+  {
+    "customer_id": 100554,
+    "spending_ratio": 34.4,
+    "join_date": "2016-08-14"
+  },
+  {
+    "customer_id": 100555,
+    "spending_ratio": 20.81,
+    "join_date": "2019-04-27"
+  },
+  {
+    "customer_id": 100556,
+    "spending_ratio": 75.79,
+    "join_date": "2012-12-18"
+  },
+  {
+    "customer_id": 100557,
+    "spending_ratio": null,
+    "join_date": "2018-03-17"
+  },
+  {
+    "customer_id": 100558,
+    "spending_ratio": 79.74,
+    "join_date": "2016-02-11"
+  },
+  {
+    "customer_id": 100559,
+    "spending_ratio": 87.26,
+    "join_date": "2015-10-07"
+  },
+  {
+    "customer_id": 100560,
+    "spending_ratio": 92.06,
+    "join_date": "2020-10-22"
+  },
+  {
+    "customer_id": 100561,
+    "spending_ratio": 72.19,
+    "join_date": "2016-08-14"
+  },
+  {
+    "customer_id": 100562,
+    "spending_ratio": 77.38,
+    "join_date": "2017-08-06"
+  },
+  {
+    "customer_id": 100563,
+    "spending_ratio": 91.66,
+    "join_date": "2020-07-03"
+  },
+  {
+    "customer_id": 100564,
+    "spending_ratio": 72.87,
+    "join_date": "2013-02-27"
+  },
+  {
+    "customer_id": 100565,
+    "spending_ratio": 82.41,
+    "join_date": "2015-01-23"
+  },
+  {
+    "customer_id": 100566,
+    "spending_ratio": 65.7,
+    "join_date": "2026-03-30"
+  },
+  {
+    "customer_id": 100567,
+    "spending_ratio": 92.05,
+    "join_date": "2018-11-30"
+  },
+  {
+    "customer_id": 100568,
+    "spending_ratio": 37.92,
+    "join_date": "2022-07-02"
+  },
+  {
+    "customer_id": 100569,
+    "spending_ratio": 6.25,
+    "join_date": "2018-11-07"
+  },
+  {
+    "customer_id": 100570,
+    "spending_ratio": 16.12,
+    "join_date": "2022-01-13"
+  },
+  {
+    "customer_id": 100571,
+    "spending_ratio": 65.55,
+    "join_date": "2018-04-08"
+  },
+  {
+    "customer_id": 100572,
+    "spending_ratio": 28.59,
+    "join_date": "2025-01-29"
+  },
+  {
+    "customer_id": 100573,
+    "spending_ratio": null,
+    "join_date": "2018-07-19"
+  },
+  {
+    "customer_id": 100574,
+    "spending_ratio": 14.75,
+    "join_date": "2018-05-02"
+  },
+  {
+    "customer_id": 100575,
+    "spending_ratio": 47.43,
+    "join_date": "2015-03-31"
+  },
+  {
+    "customer_id": 100576,
+    "spending_ratio": 84.58,
+    "join_date": "2023-11-24"
+  },
+  {
+    "customer_id": 100577,
+    "spending_ratio": 34.52,
+    "join_date": "2022-08-05"
+  },
+  {
+    "customer_id": 100578,
+    "spending_ratio": 24.92,
+    "join_date": "2023-09-07"
+  },
+  {
+    "customer_id": 100579,
+    "spending_ratio": 62.19,
+    "join_date": "2011-06-02"
+  },
+  {
+    "customer_id": 100580,
+    "spending_ratio": 86.84,
+    "join_date": "2020-05-31"
+  },
+  {
+    "customer_id": 100581,
+    "spending_ratio": 63.43,
+    "join_date": "2016-10-11"
+  },
+  {
+    "customer_id": 100582,
+    "spending_ratio": 17.58,
+    "join_date": "2012-08-13"
+  },
+  {
+    "customer_id": 100583,
+    "spending_ratio": 32.39,
+    "join_date": "2010-11-01"
+  },
+  {
+    "customer_id": 100584,
+    "spending_ratio": 15.45,
+    "join_date": "2021-01-18"
+  },
+  {
+    "customer_id": 100585,
+    "spending_ratio": 84.85,
+    "join_date": "2015-04-08"
+  },
+  {
+    "customer_id": 100586,
+    "spending_ratio": 39.98,
+    "join_date": "2013-01-16"
+  },
+  {
+    "customer_id": 100587,
+    "spending_ratio": 65.34,
+    "join_date": "2018-04-28"
+  },
+  {
+    "customer_id": 100588,
+    "spending_ratio": 90.14,
+    "join_date": "2025-08-15"
+  },
+  {
+    "customer_id": 100589,
+    "spending_ratio": 57.86,
+    "join_date": "2019-05-27"
+  },
+  {
+    "customer_id": 100590,
+    "spending_ratio": 18.91,
+    "join_date": "2026-04-19"
+  },
+  {
+    "customer_id": 100591,
+    "spending_ratio": 63.94,
+    "join_date": "2019-04-22"
+  },
+  {
+    "customer_id": 100592,
+    "spending_ratio": 60.41,
+    "join_date": "2020-12-22"
+  },
+  {
+    "customer_id": 100593,
+    "spending_ratio": 7.94,
+    "join_date": "2016-04-10"
+  },
+  {
+    "customer_id": 100594,
+    "spending_ratio": 24.55,
+    "join_date": "2018-04-24"
+  },
+  {
+    "customer_id": 100595,
+    "spending_ratio": 90.55,
+    "join_date": "2019-12-22"
+  },
+  {
+    "customer_id": 100596,
+    "spending_ratio": 13.94,
+    "join_date": "2018-02-19"
+  },
+  {
+    "customer_id": 100597,
+    "spending_ratio": 38.06,
+    "join_date": "2025-05-19"
+  },
+  {
+    "customer_id": 100598,
+    "spending_ratio": 37.28,
+    "join_date": "2024-06-18"
+  },
+  {
+    "customer_id": 100599,
+    "spending_ratio": 29.83,
+    "join_date": "2018-12-06"
+  },
+  {
+    "customer_id": 100600,
+    "spending_ratio": 90.41,
+    "join_date": "2012-09-27"
+  },
+  {
+    "customer_id": 100601,
+    "spending_ratio": 13.25,
+    "join_date": "2020-03-14"
+  },
+  {
+    "customer_id": 100602,
+    "spending_ratio": 62.75,
+    "join_date": "2014-10-04"
+  },
+  {
+    "customer_id": 100603,
+    "spending_ratio": 92.4,
+    "join_date": "2023-05-24"
+  },
+  {
+    "customer_id": 100604,
+    "spending_ratio": 75.81,
+    "join_date": "2011-02-19"
+  },
+  {
+    "customer_id": 100605,
+    "spending_ratio": 93.99,
+    "join_date": "2015-06-19"
+  },
+  {
+    "customer_id": 100606,
+    "spending_ratio": 23.47,
+    "join_date": "2022-08-31"
+  },
+  {
+    "customer_id": 100607,
+    "spending_ratio": null,
+    "join_date": "2022-06-07"
+  },
+  {
+    "customer_id": 100608,
+    "spending_ratio": 78.17,
+    "join_date": "2014-11-05"
+  },
+  {
+    "customer_id": 100609,
+    "spending_ratio": 34.57,
+    "join_date": "2015-03-24"
+  },
+  {
+    "customer_id": 100610,
+    "spending_ratio": 75.98,
+    "join_date": "2013-04-23"
+  },
+  {
+    "customer_id": 100611,
+    "spending_ratio": 5.26,
+    "join_date": "2023-05-15"
+  },
+  {
+    "customer_id": 100612,
+    "spending_ratio": 93.88,
+    "join_date": "2013-03-31"
+  },
+  {
+    "customer_id": 100613,
+    "spending_ratio": 27.56,
+    "join_date": "2022-02-12"
+  },
+  {
+    "customer_id": 100614,
+    "spending_ratio": 14.89,
+    "join_date": "2013-11-30"
+  },
+  {
+    "customer_id": 100615,
+    "spending_ratio": null,
+    "join_date": "2010-07-31"
+  },
+  {
+    "customer_id": 100616,
+    "spending_ratio": 76.1,
+    "join_date": "2018-01-13"
+  },
+  {
+    "customer_id": 100617,
+    "spending_ratio": 58.0,
+    "join_date": "2015-05-04"
+  },
+  {
+    "customer_id": 100618,
+    "spending_ratio": 20.68,
+    "join_date": "2010-05-10"
+  },
+  {
+    "customer_id": 100619,
+    "spending_ratio": 16.41,
+    "join_date": "2011-03-06"
+  },
+  {
+    "customer_id": 100620,
+    "spending_ratio": 52.35,
+    "join_date": "2019-06-11"
+  },
+  {
+    "customer_id": 100621,
+    "spending_ratio": 47.86,
+    "join_date": "2011-06-05"
+  },
+  {
+    "customer_id": 100622,
+    "spending_ratio": 51.19,
+    "join_date": "2018-02-13"
+  },
+  {
+    "customer_id": 100623,
+    "spending_ratio": 45.68,
+    "join_date": "2012-06-12"
+  },
+  {
+    "customer_id": 100624,
+    "spending_ratio": 90.09,
+    "join_date": "2014-12-20"
+  },
+  {
+    "customer_id": 100625,
+    "spending_ratio": 70.45,
+    "join_date": "2010-12-22"
+  },
+  {
+    "customer_id": 100626,
+    "spending_ratio": 51.93,
+    "join_date": "2024-10-11"
+  },
+  {
+    "customer_id": 100627,
+    "spending_ratio": 62.9,
+    "join_date": "2020-04-10"
+  },
+  {
+    "customer_id": 100628,
+    "spending_ratio": 10.47,
+    "join_date": "2010-09-13"
+  },
+  {
+    "customer_id": 100629,
+    "spending_ratio": 81.26,
+    "join_date": "2020-09-28"
+  },
+  {
+    "customer_id": 100630,
+    "spending_ratio": 66.75,
+    "join_date": "2019-07-25"
+  },
+  {
+    "customer_id": 100631,
+    "spending_ratio": 69.12,
+    "join_date": "2020-12-30"
+  },
+  {
+    "customer_id": 100632,
+    "spending_ratio": 11.61,
+    "join_date": "2019-12-13"
+  },
+  {
+    "customer_id": 100633,
+    "spending_ratio": 33.99,
+    "join_date": "2011-10-24"
+  },
+  {
+    "customer_id": 100634,
+    "spending_ratio": 10.91,
+    "join_date": "2013-04-30"
+  },
+  {
+    "customer_id": 100635,
+    "spending_ratio": 61.19,
+    "join_date": "2016-03-02"
+  },
+  {
+    "customer_id": 100636,
+    "spending_ratio": 54.35,
+    "join_date": "2023-02-17"
+  },
+  {
+    "customer_id": 100637,
+    "spending_ratio": 39.28,
+    "join_date": "2017-04-17"
+  },
+  {
+    "customer_id": 100638,
+    "spending_ratio": 52.75,
+    "join_date": "2023-05-26"
+  },
+  {
+    "customer_id": 100639,
+    "spending_ratio": 50.5,
+    "join_date": "2020-03-05"
+  },
+  {
+    "customer_id": 100640,
+    "spending_ratio": 13.93,
+    "join_date": "2019-08-26"
+  },
+  {
+    "customer_id": 100641,
+    "spending_ratio": 15.3,
+    "join_date": "2025-09-27"
+  },
+  {
+    "customer_id": 100642,
+    "spending_ratio": null,
+    "join_date": "2024-09-07"
+  },
+  {
+    "customer_id": 100643,
+    "spending_ratio": 69.88,
+    "join_date": "2022-05-14"
+  },
+  {
+    "customer_id": 100644,
+    "spending_ratio": 43.71,
+    "join_date": "2014-10-28"
+  },
+  {
+    "customer_id": 100645,
+    "spending_ratio": 42.24,
+    "join_date": "2015-02-15"
+  },
+  {
+    "customer_id": 100646,
+    "spending_ratio": 40.89,
+    "join_date": "2020-03-04"
+  },
+  {
+    "customer_id": 100647,
+    "spending_ratio": 13.56,
+    "join_date": "2026-05-13"
+  },
+  {
+    "customer_id": 100648,
+    "spending_ratio": 33.13,
+    "join_date": "2019-07-29"
+  },
+  {
+    "customer_id": 100649,
+    "spending_ratio": 38.69,
+    "join_date": "2015-09-20"
+  },
+  {
+    "customer_id": 100650,
+    "spending_ratio": 66.81,
+    "join_date": "2013-06-04"
+  },
+  {
+    "customer_id": 100651,
+    "spending_ratio": 11.04,
+    "join_date": "2020-08-21"
+  },
+  {
+    "customer_id": 100652,
+    "spending_ratio": null,
+    "join_date": "2011-12-01"
+  },
+  {
+    "customer_id": 100653,
+    "spending_ratio": 72.01,
+    "join_date": "2012-03-02"
+  },
+  {
+    "customer_id": 100654,
+    "spending_ratio": 78.06,
+    "join_date": "2018-05-11"
+  },
+  {
+    "customer_id": 100655,
+    "spending_ratio": 10.4,
+    "join_date": "2022-06-24"
+  },
+  {
+    "customer_id": 100656,
+    "spending_ratio": 55.55,
+    "join_date": "2022-08-06"
+  },
+  {
+    "customer_id": 100657,
+    "spending_ratio": 16.0,
+    "join_date": "2025-01-10"
+  },
+  {
+    "customer_id": 100658,
+    "spending_ratio": 83.62,
+    "join_date": "2017-12-06"
+  },
+  {
+    "customer_id": 100659,
+    "spending_ratio": 83.13,
+    "join_date": "2019-06-27"
+  },
+  {
+    "customer_id": 100660,
+    "spending_ratio": 9.63,
+    "join_date": "2026-03-04"
+  },
+  {
+    "customer_id": 100661,
+    "spending_ratio": 59.04,
+    "join_date": "2016-06-14"
+  },
+  {
+    "customer_id": 100662,
+    "spending_ratio": 162.24,
+    "join_date": "2017-11-20"
+  },
+  {
+    "customer_id": 100663,
+    "spending_ratio": 24.15,
+    "join_date": "2021-05-19"
+  },
+  {
+    "customer_id": 100664,
+    "spending_ratio": 347.84,
+    "join_date": "2024-09-23"
+  },
+  {
+    "customer_id": 100665,
+    "spending_ratio": 36.51,
+    "join_date": "2012-06-05"
+  },
+  {
+    "customer_id": 100666,
+    "spending_ratio": 38.08,
+    "join_date": "2022-06-23"
+  },
+  {
+    "customer_id": 100667,
+    "spending_ratio": 56.67,
+    "join_date": "2016-04-01"
+  },
+  {
+    "customer_id": 100668,
+    "spending_ratio": 81.06,
+    "join_date": "2019-08-17"
+  },
+  {
+    "customer_id": 100669,
+    "spending_ratio": 60.22,
+    "join_date": "2023-12-12"
+  },
+  {
+    "customer_id": 100670,
+    "spending_ratio": 55.11,
+    "join_date": "2024-05-31"
+  },
+  {
+    "customer_id": 100671,
+    "spending_ratio": 88.62,
+    "join_date": "2023-08-29"
+  },
+  {
+    "customer_id": 100672,
+    "spending_ratio": 29.07,
+    "join_date": "2025-07-21"
+  },
+  {
+    "customer_id": 100673,
+    "spending_ratio": 29.59,
+    "join_date": "2014-01-17"
+  },
+  {
+    "customer_id": 100674,
+    "spending_ratio": 87.94,
+    "join_date": "2016-12-06"
+  },
+  {
+    "customer_id": 100675,
+    "spending_ratio": 5.55,
+    "join_date": "2017-11-15"
+  },
+  {
+    "customer_id": 100676,
+    "spending_ratio": null,
+    "join_date": "2013-03-19"
+  },
+  {
+    "customer_id": 100677,
+    "spending_ratio": 11.26,
+    "join_date": "2018-12-28"
+  },
+  {
+    "customer_id": 100678,
+    "spending_ratio": 92.46,
+    "join_date": "2024-03-14"
+  },
+  {
+    "customer_id": 100679,
+    "spending_ratio": 72.15,
+    "join_date": "2012-01-22"
+  },
+  {
+    "customer_id": 100680,
+    "spending_ratio": 38.86,
+    "join_date": "2014-10-29"
+  },
+  {
+    "customer_id": 100681,
+    "spending_ratio": 35.68,
+    "join_date": "2020-03-05"
+  },
+  {
+    "customer_id": 100682,
+    "spending_ratio": 33.05,
+    "join_date": "2018-04-20"
+  },
+  {
+    "customer_id": 100683,
+    "spending_ratio": 74.92,
+    "join_date": "2017-04-11"
+  },
+  {
+    "customer_id": 100684,
+    "spending_ratio": 58.66,
+    "join_date": "2022-09-24"
+  },
+  {
+    "customer_id": 100685,
+    "spending_ratio": 19.0,
+    "join_date": "2011-03-07"
+  },
+  {
+    "customer_id": 100686,
+    "spending_ratio": 9.48,
+    "join_date": "2023-11-10"
+  },
+  {
+    "customer_id": 100687,
+    "spending_ratio": 29.49,
+    "join_date": "2011-10-31"
+  },
+  {
+    "customer_id": 100688,
+    "spending_ratio": 43.16,
+    "join_date": "2024-11-05"
+  },
+  {
+    "customer_id": 100689,
+    "spending_ratio": 44.78,
+    "join_date": "2023-08-14"
+  },
+  {
+    "customer_id": 100690,
+    "spending_ratio": 24.4,
+    "join_date": "2016-02-16"
+  },
+  {
+    "customer_id": 100691,
+    "spending_ratio": 15.24,
+    "join_date": "2021-06-29"
+  },
+  {
+    "customer_id": 100692,
+    "spending_ratio": 14.98,
+    "join_date": "2019-08-23"
+  },
+  {
+    "customer_id": 100693,
+    "spending_ratio": null,
+    "join_date": "2025-03-18"
+  },
+  {
+    "customer_id": 100694,
+    "spending_ratio": 52.42,
+    "join_date": "2020-11-30"
+  },
+  {
+    "customer_id": 100695,
+    "spending_ratio": null,
+    "join_date": "2016-12-01"
+  },
+  {
+    "customer_id": 100696,
+    "spending_ratio": 93.6,
+    "join_date": "2018-11-12"
+  },
+  {
+    "customer_id": 100697,
+    "spending_ratio": 5.69,
+    "join_date": "2011-03-25"
+  },
+  {
+    "customer_id": 100698,
+    "spending_ratio": 90.08,
+    "join_date": "2016-10-05"
+  },
+  {
+    "customer_id": 100699,
+    "spending_ratio": 73.77,
+    "join_date": "2013-01-29"
+  },
+  {
+    "customer_id": 100700,
+    "spending_ratio": 34.53,
+    "join_date": "2016-06-29"
+  },
+  {
+    "customer_id": 100701,
+    "spending_ratio": 49.76,
+    "join_date": "2010-03-05"
+  },
+  {
+    "customer_id": 100702,
+    "spending_ratio": 20.81,
+    "join_date": "2019-08-29"
+  },
+  {
+    "customer_id": 100703,
+    "spending_ratio": 52.93,
+    "join_date": "2018-07-12"
+  },
+  {
+    "customer_id": 100704,
+    "spending_ratio": 50.02,
+    "join_date": "2015-03-01"
+  },
+  {
+    "customer_id": 100705,
+    "spending_ratio": 77.56,
+    "join_date": "2024-12-25"
+  },
+  {
+    "customer_id": 100706,
+    "spending_ratio": 40.74,
+    "join_date": "2011-08-14"
+  },
+  {
+    "customer_id": 100707,
+    "spending_ratio": 44.26,
+    "join_date": "2010-12-13"
+  },
+  {
+    "customer_id": 100708,
+    "spending_ratio": 87.9,
+    "join_date": "2020-04-24"
+  },
+  {
+    "customer_id": 100709,
+    "spending_ratio": 56.82,
+    "join_date": "2017-01-08"
+  },
+  {
+    "customer_id": 100710,
+    "spending_ratio": 41.4,
+    "join_date": "2022-11-11"
+  },
+  {
+    "customer_id": 100711,
+    "spending_ratio": 42.59,
+    "join_date": "2024-05-11"
+  },
+  {
+    "customer_id": 100712,
+    "spending_ratio": 41.45,
+    "join_date": "2012-08-01"
+  },
+  {
+    "customer_id": 100713,
+    "spending_ratio": 20.47,
+    "join_date": "2017-04-14"
+  },
+  {
+    "customer_id": 100714,
+    "spending_ratio": 46.41,
+    "join_date": "2023-11-12"
+  },
+  {
+    "customer_id": 100715,
+    "spending_ratio": 87.78,
+    "join_date": "2025-06-20"
+  },
+  {
+    "customer_id": 100716,
+    "spending_ratio": 44.3,
+    "join_date": "2011-12-23"
+  },
+  {
+    "customer_id": 100717,
+    "spending_ratio": 26.9,
+    "join_date": "2012-05-17"
+  },
+  {
+    "customer_id": 100718,
+    "spending_ratio": 41.04,
+    "join_date": "2023-03-18"
+  },
+  {
+    "customer_id": 100719,
+    "spending_ratio": 40.62,
+    "join_date": "2011-10-07"
+  },
+  {
+    "customer_id": 100720,
+    "spending_ratio": null,
+    "join_date": "2016-12-16"
+  },
+  {
+    "customer_id": 100721,
+    "spending_ratio": 34.98,
+    "join_date": "2014-12-21"
+  },
+  {
+    "customer_id": 100722,
+    "spending_ratio": 11.87,
+    "join_date": "2013-10-09"
+  },
+  {
+    "customer_id": 100723,
+    "spending_ratio": null,
+    "join_date": "2024-03-15"
+  },
+  {
+    "customer_id": 100724,
+    "spending_ratio": 22.45,
+    "join_date": "2021-06-09"
+  },
+  {
+    "customer_id": 100725,
+    "spending_ratio": 36.6,
+    "join_date": "2017-11-02"
+  },
+  {
+    "customer_id": 100726,
+    "spending_ratio": 78.35,
+    "join_date": "2024-06-23"
+  },
+  {
+    "customer_id": 100727,
+    "spending_ratio": 14.25,
+    "join_date": "2015-04-20"
+  },
+  {
+    "customer_id": 100728,
+    "spending_ratio": 22.75,
+    "join_date": "2015-09-28"
+  },
+  {
+    "customer_id": 100729,
+    "spending_ratio": 18.76,
+    "join_date": "2023-07-06"
+  },
+  {
+    "customer_id": 100730,
+    "spending_ratio": 11.78,
+    "join_date": "2024-09-13"
+  },
+  {
+    "customer_id": 100731,
+    "spending_ratio": 49.47,
+    "join_date": "2024-02-01"
+  },
+  {
+    "customer_id": 100732,
+    "spending_ratio": 73.39,
+    "join_date": "2022-08-24"
+  },
+  {
+    "customer_id": 100733,
+    "spending_ratio": 66.3,
+    "join_date": "2020-01-26"
+  },
+  {
+    "customer_id": 100734,
+    "spending_ratio": 62.87,
+    "join_date": "2022-08-30"
+  },
+  {
+    "customer_id": 100735,
+    "spending_ratio": 34.09,
+    "join_date": "2024-01-04"
+  },
+  {
+    "customer_id": 100736,
+    "spending_ratio": 33.45,
+    "join_date": "2024-01-26"
+  },
+  {
+    "customer_id": 100737,
+    "spending_ratio": 11.15,
+    "join_date": "2019-11-12"
+  },
+  {
+    "customer_id": 100738,
+    "spending_ratio": 61.82,
+    "join_date": "2019-12-02"
+  },
+  {
+    "customer_id": 100739,
+    "spending_ratio": 58.23,
+    "join_date": "2016-02-29"
+  },
+  {
+    "customer_id": 100740,
+    "spending_ratio": 50.66,
+    "join_date": "2017-11-23"
+  },
+  {
+    "customer_id": 100741,
+    "spending_ratio": 46.56,
+    "join_date": "2016-12-17"
+  },
+  {
+    "customer_id": 100742,
+    "spending_ratio": 10.12,
+    "join_date": "2010-11-05"
+  },
+  {
+    "customer_id": 100743,
+    "spending_ratio": null,
+    "join_date": "2016-06-09"
+  },
+  {
+    "customer_id": 100744,
+    "spending_ratio": 60.35,
+    "join_date": "2012-01-10"
+  },
+  {
+    "customer_id": 100745,
+    "spending_ratio": 39.6,
+    "join_date": "2021-05-16"
+  },
+  {
+    "customer_id": 100746,
+    "spending_ratio": 54.89,
+    "join_date": "2023-01-07"
+  },
+  {
+    "customer_id": 100747,
+    "spending_ratio": null,
+    "join_date": "2010-12-03"
+  },
+  {
+    "customer_id": 100748,
+    "spending_ratio": 63.67,
+    "join_date": "2022-10-28"
+  },
+  {
+    "customer_id": 100749,
+    "spending_ratio": 59.45,
+    "join_date": "2017-03-18"
+  },
+  {
+    "customer_id": 100750,
+    "spending_ratio": 18.58,
+    "join_date": "2021-03-31"
+  },
+  {
+    "customer_id": 100751,
+    "spending_ratio": 45.55,
+    "join_date": "2011-05-22"
+  },
+  {
+    "customer_id": 100752,
+    "spending_ratio": 93.41,
+    "join_date": "2017-09-14"
+  },
+  {
+    "customer_id": 100753,
+    "spending_ratio": 50.41,
+    "join_date": "2011-11-22"
+  },
+  {
+    "customer_id": 100754,
+    "spending_ratio": 8.52,
+    "join_date": "2013-11-14"
+  },
+  {
+    "customer_id": 100755,
+    "spending_ratio": 44.4,
+    "join_date": "2025-11-14"
+  },
+  {
+    "customer_id": 100756,
+    "spending_ratio": 52.17,
+    "join_date": "2019-11-09"
+  },
+  {
+    "customer_id": 100757,
+    "spending_ratio": 19.29,
+    "join_date": "2023-09-05"
+  },
+  {
+    "customer_id": 100758,
+    "spending_ratio": 87.61,
+    "join_date": "2018-05-13"
+  },
+  {
+    "customer_id": 100759,
+    "spending_ratio": 41.79,
+    "join_date": "2018-09-09"
+  },
+  {
+    "customer_id": 100760,
+    "spending_ratio": 66.1,
+    "join_date": "2017-08-03"
+  },
+  {
+    "customer_id": 100761,
+    "spending_ratio": 76.03,
+    "join_date": "2011-03-05"
+  },
+  {
+    "customer_id": 100762,
+    "spending_ratio": 35.12,
+    "join_date": "2024-07-08"
+  },
+  {
+    "customer_id": 100763,
+    "spending_ratio": 13.51,
+    "join_date": "2017-05-24"
+  },
+  {
+    "customer_id": 100764,
+    "spending_ratio": 39.79,
+    "join_date": "2025-03-20"
+  },
+  {
+    "customer_id": 100765,
+    "spending_ratio": 70.14,
+    "join_date": "2015-08-27"
+  },
+  {
+    "customer_id": 100766,
+    "spending_ratio": 91.8,
+    "join_date": "2024-09-22"
+  },
+  {
+    "customer_id": 100767,
+    "spending_ratio": 83.6,
+    "join_date": "2023-07-09"
+  },
+  {
+    "customer_id": 100768,
+    "spending_ratio": 159.34,
+    "join_date": "2017-06-23"
+  },
+  {
+    "customer_id": 100769,
+    "spending_ratio": 17.73,
+    "join_date": "2024-11-19"
+  },
+  {
+    "customer_id": 100770,
+    "spending_ratio": 32.92,
+    "join_date": "2017-11-05"
+  },
+  {
+    "customer_id": 100771,
+    "spending_ratio": 67.86,
+    "join_date": "2024-09-18"
+  },
+  {
+    "customer_id": 100772,
+    "spending_ratio": 16.61,
+    "join_date": "2018-10-16"
+  },
+  {
+    "customer_id": 100773,
+    "spending_ratio": 89.42,
+    "join_date": "2025-11-24"
+  },
+  {
+    "customer_id": 100774,
+    "spending_ratio": 55.3,
+    "join_date": "2016-12-11"
+  },
+  {
+    "customer_id": 100775,
+    "spending_ratio": 76.25,
+    "join_date": "2024-06-07"
+  },
+  {
+    "customer_id": 100776,
+    "spending_ratio": 65.31,
+    "join_date": "2012-11-12"
+  },
+  {
+    "customer_id": 100777,
+    "spending_ratio": 87.12,
+    "join_date": "2025-05-16"
+  },
+  {
+    "customer_id": 100778,
+    "spending_ratio": 63.14,
+    "join_date": "2012-02-05"
+  },
+  {
+    "customer_id": 100779,
+    "spending_ratio": 230.93,
+    "join_date": "2019-07-01"
+  },
+  {
+    "customer_id": 100780,
+    "spending_ratio": 37.63,
+    "join_date": "2010-05-30"
+  },
+  {
+    "customer_id": 100781,
+    "spending_ratio": null,
+    "join_date": "2014-01-16"
+  },
+  {
+    "customer_id": 100782,
+    "spending_ratio": 90.29,
+    "join_date": "2017-08-31"
+  },
+  {
+    "customer_id": 100783,
+    "spending_ratio": 22.28,
+    "join_date": "2020-11-27"
+  },
+  {
+    "customer_id": 100784,
+    "spending_ratio": 18.95,
+    "join_date": "2013-01-31"
+  },
+  {
+    "customer_id": 100785,
+    "spending_ratio": 81.0,
+    "join_date": "2016-08-20"
+  },
+  {
+    "customer_id": 100786,
+    "spending_ratio": 50.69,
+    "join_date": "2012-04-08"
+  },
+  {
+    "customer_id": 100787,
+    "spending_ratio": 80.16,
+    "join_date": "2022-02-08"
+  },
+  {
+    "customer_id": 100788,
+    "spending_ratio": 8.4,
+    "join_date": "2021-10-23"
+  },
+  {
+    "customer_id": 100789,
+    "spending_ratio": null,
+    "join_date": "2017-07-21"
+  },
+  {
+    "customer_id": 100790,
+    "spending_ratio": 16.79,
+    "join_date": "2023-11-11"
+  },
+  {
+    "customer_id": 100791,
+    "spending_ratio": 18.88,
+    "join_date": "2018-06-14"
+  },
+  {
+    "customer_id": 100792,
+    "spending_ratio": 79.82,
+    "join_date": "2014-01-21"
+  },
+  {
+    "customer_id": 100793,
+    "spending_ratio": 77.81,
+    "join_date": "2024-01-05"
+  },
+  {
+    "customer_id": 100794,
+    "spending_ratio": 69.91,
+    "join_date": "2013-09-18"
+  },
+  {
+    "customer_id": 100795,
+    "spending_ratio": 41.98,
+    "join_date": "2010-12-24"
+  },
+  {
+    "customer_id": 100796,
+    "spending_ratio": 69.76,
+    "join_date": "2025-03-03"
+  },
+  {
+    "customer_id": 100797,
+    "spending_ratio": 59.95,
+    "join_date": "2019-12-18"
+  },
+  {
+    "customer_id": 100798,
+    "spending_ratio": 26.06,
+    "join_date": "2020-01-26"
+  },
+  {
+    "customer_id": 100799,
+    "spending_ratio": 32.85,
+    "join_date": "2015-05-14"
+  },
+  {
+    "customer_id": 100800,
+    "spending_ratio": 86.36,
+    "join_date": "2020-07-09"
+  },
+  {
+    "customer_id": 100801,
+    "spending_ratio": 38.11,
+    "join_date": "2014-05-09"
+  },
+  {
+    "customer_id": 100802,
+    "spending_ratio": 93.6,
+    "join_date": "2022-10-17"
+  },
+  {
+    "customer_id": 100803,
+    "spending_ratio": 74.25,
+    "join_date": "2020-05-10"
+  },
+  {
+    "customer_id": 100804,
+    "spending_ratio": 50.26,
+    "join_date": "2018-07-26"
+  },
+  {
+    "customer_id": 100805,
+    "spending_ratio": 91.96,
+    "join_date": "2019-05-23"
+  },
+  {
+    "customer_id": 100806,
+    "spending_ratio": null,
+    "join_date": "2014-06-24"
+  },
+  {
+    "customer_id": 100807,
+    "spending_ratio": 83.57,
+    "join_date": "2013-02-07"
+  },
+  {
+    "customer_id": 100808,
+    "spending_ratio": 62.71,
+    "join_date": "2011-03-04"
+  },
+  {
+    "customer_id": 100809,
+    "spending_ratio": 54.91,
+    "join_date": "2018-04-29"
+  },
+  {
+    "customer_id": 100810,
+    "spending_ratio": 69.03,
+    "join_date": "2012-04-20"
+  },
+  {
+    "customer_id": 100811,
+    "spending_ratio": 81.6,
+    "join_date": "2021-07-28"
+  },
+  {
+    "customer_id": 100812,
+    "spending_ratio": 12.55,
+    "join_date": "2016-05-24"
+  },
+  {
+    "customer_id": 100813,
+    "spending_ratio": 29.55,
+    "join_date": "2013-08-06"
+  },
+  {
+    "customer_id": 100814,
+    "spending_ratio": 18.26,
+    "join_date": "2021-07-07"
+  },
+  {
+    "customer_id": 100815,
+    "spending_ratio": 13.25,
+    "join_date": "2019-10-24"
+  },
+  {
+    "customer_id": 100816,
+    "spending_ratio": 78.5,
+    "join_date": "2014-12-24"
+  },
+  {
+    "customer_id": 100817,
+    "spending_ratio": 88.74,
+    "join_date": "2017-11-03"
+  },
+  {
+    "customer_id": 100818,
+    "spending_ratio": 9.79,
+    "join_date": "2019-04-22"
+  },
+  {
+    "customer_id": 100819,
+    "spending_ratio": 38.66,
+    "join_date": "2021-04-05"
+  },
+  {
+    "customer_id": 100820,
+    "spending_ratio": 94.51,
+    "join_date": "2018-08-30"
+  },
+  {
+    "customer_id": 100821,
+    "spending_ratio": 25.21,
+    "join_date": "2018-05-30"
+  },
+  {
+    "customer_id": 100822,
+    "spending_ratio": 88.77,
+    "join_date": "2017-02-23"
+  },
+  {
+    "customer_id": 100823,
+    "spending_ratio": 63.5,
+    "join_date": "2026-01-11"
+  },
+  {
+    "customer_id": 100824,
+    "spending_ratio": 17.38,
+    "join_date": "2013-04-11"
+  },
+  {
+    "customer_id": 100825,
+    "spending_ratio": 87.57,
+    "join_date": "2016-06-08"
+  },
+  {
+    "customer_id": 100826,
+    "spending_ratio": 67.65,
+    "join_date": "2020-08-06"
+  },
+  {
+    "customer_id": 100827,
+    "spending_ratio": 73.3,
+    "join_date": "2013-02-10"
+  },
+  {
+    "customer_id": 100828,
+    "spending_ratio": 45.37,
+    "join_date": "2020-07-09"
+  },
+  {
+    "customer_id": 100829,
+    "spending_ratio": 86.53,
+    "join_date": "2010-02-13"
+  },
+  {
+    "customer_id": 100830,
+    "spending_ratio": 28.03,
+    "join_date": "2010-06-05"
+  },
+  {
+    "customer_id": 100831,
+    "spending_ratio": 54.39,
+    "join_date": "2013-05-09"
+  },
+  {
+    "customer_id": 100832,
+    "spending_ratio": 59.8,
+    "join_date": "2026-04-24"
+  },
+  {
+    "customer_id": 100833,
+    "spending_ratio": 15.01,
+    "join_date": "2019-06-30"
+  },
+  {
+    "customer_id": 100834,
+    "spending_ratio": 26.39,
+    "join_date": "2016-06-18"
+  },
+  {
+    "customer_id": 100835,
+    "spending_ratio": 9.3,
+    "join_date": "2012-09-25"
+  },
+  {
+    "customer_id": 100836,
+    "spending_ratio": 62.51,
+    "join_date": "2019-06-02"
+  },
+  {
+    "customer_id": 100837,
+    "spending_ratio": 46.14,
+    "join_date": "2023-12-21"
+  },
+  {
+    "customer_id": 100838,
+    "spending_ratio": 80.3,
+    "join_date": "2012-06-27"
+  },
+  {
+    "customer_id": 100839,
+    "spending_ratio": 58.71,
+    "join_date": "2021-03-18"
+  },
+  {
+    "customer_id": 100840,
+    "spending_ratio": 61.88,
+    "join_date": "2010-05-15"
+  },
+  {
+    "customer_id": 100841,
+    "spending_ratio": 26.77,
+    "join_date": "2022-11-24"
+  },
+  {
+    "customer_id": 100842,
+    "spending_ratio": 31.21,
+    "join_date": "2013-03-22"
+  },
+  {
+    "customer_id": 100843,
+    "spending_ratio": 60.33,
+    "join_date": "2010-01-13"
+  },
+  {
+    "customer_id": 100844,
+    "spending_ratio": 56.36,
+    "join_date": "2015-05-25"
+  },
+  {
+    "customer_id": 100845,
+    "spending_ratio": null,
+    "join_date": "2014-03-15"
+  },
+  {
+    "customer_id": 100846,
+    "spending_ratio": 52.11,
+    "join_date": "2011-12-03"
+  },
+  {
+    "customer_id": 100847,
+    "spending_ratio": 11.09,
+    "join_date": "2018-02-02"
+  },
+  {
+    "customer_id": 100848,
+    "spending_ratio": 53.97,
+    "join_date": "2021-10-19"
+  },
+  {
+    "customer_id": 100849,
+    "spending_ratio": 54.87,
+    "join_date": "2021-05-21"
+  },
+  {
+    "customer_id": 100850,
+    "spending_ratio": 83.6,
+    "join_date": "2018-10-04"
+  },
+  {
+    "customer_id": 100851,
+    "spending_ratio": 62.21,
+    "join_date": "2010-12-23"
+  },
+  {
+    "customer_id": 100852,
+    "spending_ratio": 27.83,
+    "join_date": "2018-05-17"
+  },
+  {
+    "customer_id": 100853,
+    "spending_ratio": 37.14,
+    "join_date": "2010-05-14"
+  },
+  {
+    "customer_id": 100854,
+    "spending_ratio": 36.03,
+    "join_date": "2011-07-08"
+  },
+  {
+    "customer_id": 100855,
+    "spending_ratio": 61.54,
+    "join_date": "2024-09-26"
+  },
+  {
+    "customer_id": 100856,
+    "spending_ratio": 71.17,
+    "join_date": "2023-01-19"
+  },
+  {
+    "customer_id": 100857,
+    "spending_ratio": 17.01,
+    "join_date": "2017-06-16"
+  },
+  {
+    "customer_id": 100858,
+    "spending_ratio": 54.14,
+    "join_date": "2017-11-26"
+  },
+  {
+    "customer_id": 100859,
+    "spending_ratio": 20.76,
+    "join_date": "2024-06-01"
+  },
+  {
+    "customer_id": 100860,
+    "spending_ratio": 46.82,
+    "join_date": "2025-05-10"
+  },
+  {
+    "customer_id": 100861,
+    "spending_ratio": 48.07,
+    "join_date": "2025-08-06"
+  },
+  {
+    "customer_id": 100862,
+    "spending_ratio": 78.03,
+    "join_date": "2014-02-02"
+  },
+  {
+    "customer_id": 100863,
+    "spending_ratio": 183.37,
+    "join_date": "2011-06-01"
+  },
+  {
+    "customer_id": 100864,
+    "spending_ratio": 8.33,
+    "join_date": "2020-04-07"
+  },
+  {
+    "customer_id": 100865,
+    "spending_ratio": 8.94,
+    "join_date": "2014-07-10"
+  },
+  {
+    "customer_id": 100866,
+    "spending_ratio": 84.72,
+    "join_date": "2014-06-23"
+  },
+  {
+    "customer_id": 100867,
+    "spending_ratio": 89.0,
+    "join_date": "2017-01-29"
+  },
+  {
+    "customer_id": 100868,
+    "spending_ratio": 40.84,
+    "join_date": "2021-07-24"
+  },
+  {
+    "customer_id": 100869,
+    "spending_ratio": 47.61,
+    "join_date": "2022-03-07"
+  },
+  {
+    "customer_id": 100870,
+    "spending_ratio": 72.8,
+    "join_date": "2010-10-27"
+  },
+  {
+    "customer_id": 100871,
+    "spending_ratio": 30.75,
+    "join_date": "2014-04-15"
+  },
+  {
+    "customer_id": 100872,
+    "spending_ratio": 82.92,
+    "join_date": "2011-01-27"
+  },
+  {
+    "customer_id": 100873,
+    "spending_ratio": 29.59,
+    "join_date": "2017-06-12"
+  },
+  {
+    "customer_id": 100874,
+    "spending_ratio": 44.33,
+    "join_date": "2018-04-03"
+  },
+  {
+    "customer_id": 100875,
+    "spending_ratio": 71.9,
+    "join_date": "2018-12-21"
+  },
+  {
+    "customer_id": 100876,
+    "spending_ratio": 35.51,
+    "join_date": "2018-09-03"
+  },
+  {
+    "customer_id": 100877,
+    "spending_ratio": 49.66,
+    "join_date": "2014-03-11"
+  },
+  {
+    "customer_id": 100878,
+    "spending_ratio": 38.06,
+    "join_date": "2021-02-27"
+  },
+  {
+    "customer_id": 100879,
+    "spending_ratio": 29.0,
+    "join_date": "2021-08-24"
+  },
+  {
+    "customer_id": 100880,
+    "spending_ratio": 70.44,
+    "join_date": "2011-11-08"
+  },
+  {
+    "customer_id": 100881,
+    "spending_ratio": 43.75,
+    "join_date": "2011-10-09"
+  },
+  {
+    "customer_id": 100882,
+    "spending_ratio": 54.09,
+    "join_date": "2014-01-18"
+  },
+  {
+    "customer_id": 100883,
+    "spending_ratio": 14.23,
+    "join_date": "2017-03-16"
+  },
+  {
+    "customer_id": 100884,
+    "spending_ratio": 64.48,
+    "join_date": "2017-05-10"
+  },
+  {
+    "customer_id": 100885,
+    "spending_ratio": 45.13,
+    "join_date": "2016-11-15"
+  },
+  {
+    "customer_id": 100886,
+    "spending_ratio": 43.35,
+    "join_date": "2026-02-05"
+  },
+  {
+    "customer_id": 100887,
+    "spending_ratio": 44.95,
+    "join_date": "2025-06-21"
+  },
+  {
+    "customer_id": 100888,
+    "spending_ratio": 8.81,
+    "join_date": "2020-01-11"
+  },
+  {
+    "customer_id": 100889,
+    "spending_ratio": 60.34,
+    "join_date": "2017-11-28"
+  },
+  {
+    "customer_id": 100890,
+    "spending_ratio": null,
+    "join_date": "2019-10-04"
+  },
+  {
+    "customer_id": 100891,
+    "spending_ratio": 11.75,
+    "join_date": "2011-04-15"
+  },
+  {
+    "customer_id": 100892,
+    "spending_ratio": 41.56,
+    "join_date": "2024-04-19"
+  },
+  {
+    "customer_id": 100893,
+    "spending_ratio": 77.1,
+    "join_date": "2021-07-05"
+  },
+  {
+    "customer_id": 100894,
+    "spending_ratio": 19.4,
+    "join_date": "2025-03-28"
+  },
+  {
+    "customer_id": 100895,
+    "spending_ratio": 17.85,
+    "join_date": "2010-09-13"
+  },
+  {
+    "customer_id": 100896,
+    "spending_ratio": 66.03,
+    "join_date": "2023-08-18"
+  },
+  {
+    "customer_id": 100897,
+    "spending_ratio": 8.13,
+    "join_date": "2019-10-30"
+  },
+  {
+    "customer_id": 100898,
+    "spending_ratio": 26.24,
+    "join_date": "2011-07-05"
+  },
+  {
+    "customer_id": 100899,
+    "spending_ratio": 37.97,
+    "join_date": "2024-06-21"
+  },
+  {
+    "customer_id": 100900,
+    "spending_ratio": 90.45,
+    "join_date": "2018-08-03"
+  },
+  {
+    "customer_id": 100901,
+    "spending_ratio": 318.09,
+    "join_date": "2010-09-23"
+  },
+  {
+    "customer_id": 100902,
+    "spending_ratio": 45.49,
+    "join_date": "2025-03-25"
+  },
+  {
+    "customer_id": 100903,
+    "spending_ratio": 38.48,
+    "join_date": "2018-04-27"
+  },
+  {
+    "customer_id": 100904,
+    "spending_ratio": 56.65,
+    "join_date": "2011-09-22"
+  },
+  {
+    "customer_id": 100905,
+    "spending_ratio": 38.03,
+    "join_date": "2021-11-16"
+  },
+  {
+    "customer_id": 100906,
+    "spending_ratio": 63.46,
+    "join_date": "2017-01-19"
+  },
+  {
+    "customer_id": 100907,
+    "spending_ratio": 91.45,
+    "join_date": "2015-08-07"
+  },
+  {
+    "customer_id": 100908,
+    "spending_ratio": 71.21,
+    "join_date": "2010-08-01"
+  },
+  {
+    "customer_id": 100909,
+    "spending_ratio": 51.6,
+    "join_date": "2021-03-12"
+  },
+  {
+    "customer_id": 100910,
+    "spending_ratio": 15.6,
+    "join_date": "2022-08-07"
+  },
+  {
+    "customer_id": 100911,
+    "spending_ratio": 68.36,
+    "join_date": "2015-11-03"
+  },
+  {
+    "customer_id": 100912,
+    "spending_ratio": 228.74,
+    "join_date": "2014-10-24"
+  },
+  {
+    "customer_id": 100913,
+    "spending_ratio": 67.46,
+    "join_date": "2016-05-28"
+  },
+  {
+    "customer_id": 100914,
+    "spending_ratio": 23.02,
+    "join_date": "2021-01-06"
+  },
+  {
+    "customer_id": 100915,
+    "spending_ratio": null,
+    "join_date": "2013-01-16"
+  },
+  {
+    "customer_id": 100916,
+    "spending_ratio": 20.54,
+    "join_date": "2020-02-21"
+  },
+  {
+    "customer_id": 100917,
+    "spending_ratio": 45.06,
+    "join_date": "2025-12-31"
+  },
+  {
+    "customer_id": 100918,
+    "spending_ratio": 77.95,
+    "join_date": "2011-12-21"
+  },
+  {
+    "customer_id": 100919,
+    "spending_ratio": 65.11,
+    "join_date": "2017-03-03"
+  },
+  {
+    "customer_id": 100920,
+    "spending_ratio": 10.84,
+    "join_date": "2025-11-30"
+  },
+  {
+    "customer_id": 100921,
+    "spending_ratio": 31.13,
+    "join_date": "2022-02-28"
+  },
+  {
+    "customer_id": 100922,
+    "spending_ratio": 81.62,
+    "join_date": "2016-09-23"
+  },
+  {
+    "customer_id": 100923,
+    "spending_ratio": 68.86,
+    "join_date": "2025-12-19"
+  },
+  {
+    "customer_id": 100924,
+    "spending_ratio": 62.39,
+    "join_date": "2025-09-15"
+  },
+  {
+    "customer_id": 100925,
+    "spending_ratio": 50.79,
+    "join_date": "2018-02-09"
+  },
+  {
+    "customer_id": 100926,
+    "spending_ratio": 93.66,
+    "join_date": "2012-09-21"
+  },
+  {
+    "customer_id": 100927,
+    "spending_ratio": 26.31,
+    "join_date": "2013-02-11"
+  },
+  {
+    "customer_id": 100928,
+    "spending_ratio": 7.37,
+    "join_date": "2021-01-30"
+  },
+  {
+    "customer_id": 100929,
+    "spending_ratio": 56.5,
+    "join_date": "2022-06-05"
+  },
+  {
+    "customer_id": 100930,
+    "spending_ratio": 77.33,
+    "join_date": "2020-06-25"
+  },
+  {
+    "customer_id": 100931,
+    "spending_ratio": 16.68,
+    "join_date": "2022-05-17"
+  },
+  {
+    "customer_id": 100932,
+    "spending_ratio": 250.04,
+    "join_date": "2011-12-08"
+  },
+  {
+    "customer_id": 100933,
+    "spending_ratio": null,
+    "join_date": "2018-12-06"
+  },
+  {
+    "customer_id": 100934,
+    "spending_ratio": 48.08,
+    "join_date": "2026-02-14"
+  },
+  {
+    "customer_id": 100935,
+    "spending_ratio": 74.22,
+    "join_date": "2019-03-20"
+  },
+  {
+    "customer_id": 100936,
+    "spending_ratio": 11.64,
+    "join_date": "2022-11-23"
+  },
+  {
+    "customer_id": 100937,
+    "spending_ratio": 62.81,
+    "join_date": "2017-02-10"
+  },
+  {
+    "customer_id": 100938,
+    "spending_ratio": 46.92,
+    "join_date": "2020-02-04"
+  },
+  {
+    "customer_id": 100939,
+    "spending_ratio": 36.01,
+    "join_date": "2021-08-09"
+  },
+  {
+    "customer_id": 100940,
+    "spending_ratio": null,
+    "join_date": "2022-05-14"
+  },
+  {
+    "customer_id": 100941,
+    "spending_ratio": 74.1,
+    "join_date": "2014-01-30"
+  },
+  {
+    "customer_id": 100942,
+    "spending_ratio": 43.94,
+    "join_date": "2012-11-23"
+  },
+  {
+    "customer_id": 100943,
+    "spending_ratio": 79.83,
+    "join_date": "2011-03-30"
+  },
+  {
+    "customer_id": 100944,
+    "spending_ratio": 18.77,
+    "join_date": "2021-08-15"
+  },
+  {
+    "customer_id": 100945,
+    "spending_ratio": 19.58,
+    "join_date": "2013-09-10"
+  },
+  {
+    "customer_id": 100946,
+    "spending_ratio": 25.29,
+    "join_date": "2025-11-28"
+  },
+  {
+    "customer_id": 100947,
+    "spending_ratio": 85.54,
+    "join_date": "2021-08-21"
+  },
+  {
+    "customer_id": 100948,
+    "spending_ratio": null,
+    "join_date": "2011-10-09"
+  },
+  {
+    "customer_id": 100949,
+    "spending_ratio": 91.07,
+    "join_date": "2024-03-30"
+  },
+  {
+    "customer_id": 100950,
+    "spending_ratio": 16.27,
+    "join_date": "2016-02-27"
+  },
+  {
+    "customer_id": 100951,
+    "spending_ratio": 60.3,
+    "join_date": "2016-10-16"
+  },
+  {
+    "customer_id": 100952,
+    "spending_ratio": null,
+    "join_date": "2012-02-05"
+  },
+  {
+    "customer_id": 100953,
+    "spending_ratio": 58.26,
+    "join_date": "2013-10-13"
+  },
+  {
+    "customer_id": 100954,
+    "spending_ratio": 18.88,
+    "join_date": "2023-01-09"
+  },
+  {
+    "customer_id": 100955,
+    "spending_ratio": 61.2,
+    "join_date": "2024-10-10"
+  },
+  {
+    "customer_id": 100956,
+    "spending_ratio": 35.39,
+    "join_date": "2023-07-29"
+  },
+  {
+    "customer_id": 100957,
+    "spending_ratio": 8.71,
+    "join_date": "2022-08-23"
+  },
+  {
+    "customer_id": 100958,
+    "spending_ratio": 12.31,
+    "join_date": "2010-08-21"
+  },
+  {
+    "customer_id": 100959,
+    "spending_ratio": 74.39,
+    "join_date": "2024-05-21"
+  },
+  {
+    "customer_id": 100960,
+    "spending_ratio": 63.6,
+    "join_date": "2015-12-09"
+  },
+  {
+    "customer_id": 100961,
+    "spending_ratio": 42.49,
+    "join_date": "2022-10-31"
+  },
+  {
+    "customer_id": 100962,
+    "spending_ratio": 7.73,
+    "join_date": "2024-05-01"
+  },
+  {
+    "customer_id": 100963,
+    "spending_ratio": 54.1,
+    "join_date": "2024-01-25"
+  },
+  {
+    "customer_id": 100964,
+    "spending_ratio": 91.1,
+    "join_date": "2024-05-25"
+  },
+  {
+    "customer_id": 100965,
+    "spending_ratio": 27.04,
+    "join_date": "2020-10-31"
+  },
+  {
+    "customer_id": 100966,
+    "spending_ratio": 41.55,
+    "join_date": "2025-05-13"
+  },
+  {
+    "customer_id": 100967,
+    "spending_ratio": 11.57,
+    "join_date": "2020-03-04"
+  },
+  {
+    "customer_id": 100968,
+    "spending_ratio": 19.23,
+    "join_date": "2011-05-06"
+  },
+  {
+    "customer_id": 100969,
+    "spending_ratio": 48.58,
+    "join_date": "2019-04-28"
+  },
+  {
+    "customer_id": 100970,
+    "spending_ratio": null,
+    "join_date": "2014-07-30"
+  },
+  {
+    "customer_id": 100971,
+    "spending_ratio": 33.13,
+    "join_date": "2013-03-22"
+  },
+  {
+    "customer_id": 100972,
+    "spending_ratio": 33.74,
+    "join_date": "2026-02-10"
+  },
+  {
+    "customer_id": 100973,
+    "spending_ratio": 92.78,
+    "join_date": "2017-09-30"
+  },
+  {
+    "customer_id": 100974,
+    "spending_ratio": 73.46,
+    "join_date": "2012-12-07"
+  },
+  {
+    "customer_id": 100975,
+    "spending_ratio": 55.55,
+    "join_date": "2021-07-20"
+  },
+  {
+    "customer_id": 100976,
+    "spending_ratio": 26.76,
+    "join_date": "2017-02-27"
+  },
+  {
+    "customer_id": 100977,
+    "spending_ratio": 29.07,
+    "join_date": "2012-09-30"
+  },
+  {
+    "customer_id": 100978,
+    "spending_ratio": 17.68,
+    "join_date": "2015-07-24"
+  },
+  {
+    "customer_id": 100979,
+    "spending_ratio": 31.12,
+    "join_date": "2011-02-19"
+  },
+  {
+    "customer_id": 100980,
+    "spending_ratio": 82.77,
+    "join_date": "2018-08-13"
+  },
+  {
+    "customer_id": 100981,
+    "spending_ratio": 27.34,
+    "join_date": "2019-05-19"
+  },
+  {
+    "customer_id": 100982,
+    "spending_ratio": 78.21,
+    "join_date": "2013-08-01"
+  },
+  {
+    "customer_id": 100983,
+    "spending_ratio": 69.9,
+    "join_date": "2022-12-16"
+  },
+  {
+    "customer_id": 100984,
+    "spending_ratio": 73.68,
+    "join_date": "2014-04-05"
+  },
+  {
+    "customer_id": 100985,
+    "spending_ratio": 94.64,
+    "join_date": "2021-03-05"
+  },
+  {
+    "customer_id": 100986,
+    "spending_ratio": 49.89,
+    "join_date": "2020-06-21"
+  },
+  {
+    "customer_id": 100987,
+    "spending_ratio": 49.76,
+    "join_date": "2016-12-02"
+  },
+  {
+    "customer_id": 100988,
+    "spending_ratio": 90.07,
+    "join_date": "2012-01-08"
+  },
+  {
+    "customer_id": 100989,
+    "spending_ratio": 46.15,
+    "join_date": "2021-05-03"
+  },
+  {
+    "customer_id": 100990,
+    "spending_ratio": 24.36,
+    "join_date": "2015-05-27"
+  },
+  {
+    "customer_id": 100991,
+    "spending_ratio": 9.38,
+    "join_date": "2017-11-30"
+  },
+  {
+    "customer_id": 100992,
+    "spending_ratio": 49.54,
+    "join_date": "2016-04-23"
+  },
+  {
+    "customer_id": 100993,
+    "spending_ratio": 173.85,
+    "join_date": "2024-09-03"
+  },
+  {
+    "customer_id": 100994,
+    "spending_ratio": 53.3,
+    "join_date": "2016-05-29"
+  },
+  {
+    "customer_id": 100995,
+    "spending_ratio": 43.78,
+    "join_date": "2012-05-30"
+  },
+  {
+    "customer_id": 100996,
+    "spending_ratio": 70.48,
+    "join_date": "2015-12-07"
+  },
+  {
+    "customer_id": 100997,
+    "spending_ratio": null,
+    "join_date": "2019-01-17"
+  },
+  {
+    "customer_id": 100998,
+    "spending_ratio": 9.6,
+    "join_date": "2018-12-26"
+  },
+  {
+    "customer_id": 100999,
+    "spending_ratio": 22.52,
+    "join_date": "2022-08-08"
+  },
+  {
+    "customer_id": 101000,
+    "spending_ratio": 30.97,
+    "join_date": "2022-05-30"
+  }
+]
