@@ -39,7 +39,6 @@ The dataset contains:
 | 📊 `customer_credit_risk_main_transactions_1000.csv` | Raw core transactions dataset (CSV source) |
 | 📑 `customer_metadata_1000.json` | Customer metadata (JSON source) |
 | 🗄️ `loan_repayment_history.db` | SQLite database with loan repayment history (SQL source) |
-| 🌐 World Bank API | External economic indicator (inflation rate) fetched live |
 | 📈 `customer_credit_risk_data_quality_report.html` | Auto-generated Pandas/ydata profiling report |
 | 🧼 `final_processed_dataset.csv` | Final cleaned, encoded and scaled ML-ready dataset |
 | 📘 `README.md` | Project documentation and workflow guide |
