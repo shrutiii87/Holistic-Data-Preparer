@@ -3,6 +3,9 @@
 <p align="center">
 <b>An end-to-end Data Preprocessing & Feature Engineering pipeline on a Customer Credit Risk dataset.</b><br/>
 
+    
+<img width="1400" height="650" alt="animated_data_pipeline" src="https://github.com/user-attachments/assets/200e5980-4236-4276-8208-e13db420a1a0" />
+
 
 ---
 
