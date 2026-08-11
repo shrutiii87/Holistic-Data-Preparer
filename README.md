@@ -1,5 +1,3 @@
-<img width="300" height="108" alt="holistic_data_preparer_title" src="https://github.com/user-attachments/assets/c28938aa-47ac-4358-8747-5515c6d71ddb" />
-
 ---
 
 <p align="center">
