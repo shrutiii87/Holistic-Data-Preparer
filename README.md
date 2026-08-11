@@ -85,6 +85,11 @@ The dataset contains:
 
 ---
 
+<img width="1535" height="1024" alt="c87edcd2-2262-4ed2-a7d3-33c33ca47172" src="https://github.com/user-attachments/assets/2633190a-7c29-45e6-8f9a-b566211f9031" />
+
+
+---
+
 ## 📥 Part B : Data Acquisition
 
 ### 3️⃣ Import datasets from multiple sources
