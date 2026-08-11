@@ -63,6 +63,14 @@ The dataset contains:
 
 ---
 
+# 🎬 Project Demo
+
+[![Watch Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1ZuVCxGIFa7tJHLn4mLyihBH0W_C4tVda/view?usp=sharing)
+
+📹 Click the badge above to watch the complete project demonstration.
+
+---
+
 ### 🧬 Dataset Structure — Customer Credit Risk
 
 | Field Name | Data Type | Description | Notes |
