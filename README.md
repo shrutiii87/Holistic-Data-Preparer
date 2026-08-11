@@ -1,4 +1,6 @@
-## Holistic Data Preparer
+
+<p align="center">
+ <b>Holistic Data Preparer</b>
 
 <p align="center">
 <b>An end-to-end Data Preprocessing & Feature Engineering pipeline on a Customer Credit Risk dataset.</b><br/>
