@@ -1,0 +1,849 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- ================= BACKGROUND ================= -->
+
+    <linearGradient id="bgC" x1="0" y1="0" x2="1200" y2="300">
+      <stop offset="0" stop-color="#050B14"/>
+      <stop offset="0.55" stop-color="#0A1422"/>
+      <stop offset="1" stop-color="#06101A"/>
+    </linearGradient>
+
+    <linearGradient id="cyanC" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67E8F9"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+
+    <linearGradient id="greenC" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34D399"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+
+    <linearGradient id="orangeC" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FBBF24"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+
+    <filter id="glowC">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlowC">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+
+    <pattern id="gridC"
+             width="40"
+             height="40"
+             patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40"
+            stroke="#64748B"
+            stroke-opacity="0.045"/>
+    </pattern>
+
+    <style>
+
+      text {
+        font-family: Inter, Arial, Helvetica, sans-serif;
+      }
+
+      .title {
+        font-weight: 700;
+      }
+
+      .small {
+        font-weight: 600;
+        letter-spacing: 1.2px;
+      }
+
+      .flow {
+        stroke-dasharray: 7 9;
+        animation: flowC 1.4s linear infinite;
+      }
+
+      @keyframes flowC {
+        to {
+          stroke-dashoffset: -32;
+        }
+      }
+
+      .floating {
+        animation: floatingC 4s ease-in-out infinite;
+      }
+
+      @keyframes floatingC {
+        0%,100% {
+          transform: translateY(0);
+        }
+
+        50% {
+          transform: translateY(-5px);
+        }
+      }
+
+      .pulse {
+        animation: pulseC 2s ease-in-out infinite;
+      }
+
+      @keyframes pulseC {
+        0%,100% {
+          opacity: .35;
+        }
+
+        50% {
+          opacity: 1;
+        }
+      }
+
+      .scan {
+        animation: scanC 3s ease-in-out infinite;
+      }
+
+      @keyframes scanC {
+        0% {
+          transform: translateY(0);
+          opacity: 0;
+        }
+
+        20% {
+          opacity: .8;
+        }
+
+        80% {
+          opacity: .8;
+        }
+
+        100% {
+          transform: translateY(72px);
+          opacity: 0;
+        }
+      }
+
+      .cleanPulse {
+        animation: cleanC 2.5s ease-in-out infinite;
+      }
+
+      @keyframes cleanC {
+        0%,100% {
+          transform: scale(1);
+        }
+
+        50% {
+          transform: scale(1.08);
+        }
+      }
+
+      .packet {
+        animation: packetC 2.8s linear infinite;
+      }
+
+      @keyframes packetC {
+        0% {
+          transform: translateX(0);
+          opacity: 0;
+        }
+
+        15% {
+          opacity: 1;
+        }
+
+        80% {
+          opacity: 1;
+        }
+
+        100% {
+          transform: translateX(110px);
+          opacity: 0;
+        }
+      }
+
+    </style>
+
+  </defs>
+
+
+  <!-- ================================================= -->
+  <!-- BACKGROUND -->
+  <!-- ================================================= -->
+
+  <rect width="1200"
+        height="300"
+        rx="22"
+        fill="url(#bgC)"/>
+
+  <rect width="1200"
+        height="300"
+        rx="22"
+        fill="url(#gridC)"/>
+
+  <ellipse cx="1000"
+           cy="145"
+           rx="190"
+           ry="135"
+           fill="#0891B2"
+           opacity=".06"
+           filter="url(#softGlowC)"/>
+
+
+  <!-- ================================================= -->
+  <!-- LEFT ACCENT -->
+  <!-- ================================================= -->
+
+  <rect x="48"
+        y="48"
+        width="3"
+        height="135"
+        rx="2"
+        fill="url(#cyanC)"
+        filter="url(#glowC)"/>
+
+
+  <!-- ================================================= -->
+  <!-- HEADER / SAFE HEADING ZONE -->
+  <!-- No element enters x < 405 -->
+  <!-- ================================================= -->
+
+  <text x="70"
+        y="65"
+        font-size="10"
+        fill="#38BDF8"
+        class="small">
+    DATA PIPELINE / PART C
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- FIXED HEADING -->
+  <!-- Split into two controlled lines -->
+  <!-- ================================================= -->
+
+  <text x="70"
+        y="105"
+        font-size="26"
+        fill="#F8FAFC"
+        class="title">
+    Data Understanding
+  </text>
+
+  <text x="70"
+        y="134"
+        font-size="26"
+        fill="#67E8F9"
+        class="title">
+    &amp; Cleaning
+  </text>
+
+
+  <!-- Divider -->
+
+  <rect x="70"
+        y="146"
+        width="300"
+        height="1"
+        fill="#1E3A52"/>
+
+
+  <!-- Description -->
+
+  <text x="70"
+        y="168"
+        font-size="12"
+        fill="#94A3B8">
+    Exploring, validating and cleaning
+  </text>
+
+  <text x="70"
+        y="186"
+        font-size="12"
+        fill="#94A3B8">
+    raw customer credit-risk data.
+  </text>
+
+
+  <!-- Status -->
+
+  <g transform="translate(70 211)">
+
+    <rect width="205"
+          height="34"
+          rx="8"
+          fill="#081A20"
+          stroke="#164E63"/>
+
+    <circle cx="18"
+            cy="17"
+            r="4"
+            fill="#22D3EE"
+            filter="url(#glowC)"
+            class="pulse"/>
+
+    <text x="32"
+          y="21"
+          font-size="10"
+          fill="#67E8F9"
+          class="small">
+      CLEANING PIPELINE ACTIVE
+    </text>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- DATA FLOW AREA -->
+  <!-- MOVED RIGHT -->
+  <!-- ================================================= -->
+
+  <g class="floating">
+
+
+    <!-- ================= RAW DATA ================= -->
+
+    <rect x="420"
+          y="62"
+          width="125"
+          height="54"
+          rx="11"
+          fill="#081522"
+          stroke="#1E4058"/>
+
+    <!-- Table icon -->
+
+    <rect x="438"
+          y="76"
+          width="22"
+          height="24"
+          rx="3"
+          fill="#0E2637"
+          stroke="#38BDF8"/>
+
+    <path d="M438 83H460
+             M438 90H460
+             M445 76V100
+             M453 76V100"
+          fill="none"
+          stroke="#38BDF8"
+          stroke-width="1"/>
+
+    <text x="472"
+          y="84"
+          font-size="10"
+          fill="#CBD5E1"
+          class="small">
+      RAW DATA
+    </text>
+
+    <text x="472"
+          y="100"
+          font-size="8"
+          fill="#64748B">
+      CUSTOMER RECORDS
+    </text>
+
+
+    <!-- ================= EDA ================= -->
+
+    <rect x="420"
+          y="130"
+          width="125"
+          height="54"
+          rx="11"
+          fill="#081522"
+          stroke="#1E4058"/>
+
+    <!-- Magnifying glass -->
+
+    <circle cx="444"
+            cy="151"
+            r="9"
+            fill="none"
+            stroke="#22D3EE"
+            stroke-width="2"/>
+
+    <path d="M451 158L458 165"
+          stroke="#22D3EE"
+          stroke-width="2"
+          stroke-linecap="round"/>
+
+    <text x="472"
+          y="152"
+          font-size="10"
+          fill="#CBD5E1"
+          class="small">
+      EDA
+    </text>
+
+    <text x="472"
+          y="168"
+          font-size="8"
+          fill="#64748B">
+      DATA INSPECTION
+    </text>
+
+
+    <!-- ================= ISSUES ================= -->
+
+    <rect x="420"
+          y="198"
+          width="125"
+          height="54"
+          rx="11"
+          fill="#081522"
+          stroke="#1E4058"/>
+
+    <!-- Warning -->
+
+    <path d="M444 208
+             L456 229
+             H432
+             Z"
+          fill="#211A08"
+          stroke="#FBBF24"
+          stroke-width="1.5"/>
+
+    <line x1="444"
+          y1="214"
+          x2="444"
+          y2="221"
+          stroke="#FBBF24"
+          stroke-width="2"/>
+
+    <circle cx="444"
+            cy="225"
+            r="1.5"
+            fill="#FBBF24"/>
+
+    <text x="472"
+          y="219"
+          font-size="10"
+          fill="#CBD5E1"
+          class="small">
+      ISSUES
+    </text>
+
+    <text x="472"
+          y="235"
+          font-size="8"
+          fill="#64748B">
+      MISSING / OUTLIERS
+    </text>
+
+
+    <!-- ================================================= -->
+    <!-- CONNECTIONS -->
+    <!-- ================================================= -->
+
+    <path d="M545 89
+             C565 89 565 140 590 140"
+          fill="none"
+          stroke="#183B52"
+          stroke-width="2"/>
+
+    <path d="M545 157 H590"
+          fill="none"
+          stroke="#183B52"
+          stroke-width="2"/>
+
+    <path d="M545 225
+             C565 225 565 181 590 181"
+          fill="none"
+          stroke="#183B52"
+          stroke-width="2"/>
+
+
+    <path d="M545 89
+             C565 89 565 140 590 140"
+          fill="none"
+          stroke="url(#cyanC)"
+          stroke-width="2"
+          class="flow"/>
+
+    <path d="M545 157 H590"
+          fill="none"
+          stroke="url(#cyanC)"
+          stroke-width="2"
+          class="flow"/>
+
+    <path d="M545 225
+             C565 225 565 181 590 181"
+          fill="none"
+          stroke="url(#orangeC)"
+          stroke-width="2"
+          class="flow"/>
+
+
+    <!-- ================================================= -->
+    <!-- CLEANING ENGINE -->
+    <!-- ================================================= -->
+
+    <rect x="590"
+          y="119"
+          width="160"
+          height="80"
+          rx="15"
+          fill="#091B2A"
+          stroke="#2563EB"
+          stroke-opacity=".75"/>
+
+
+    <!-- Gear -->
+
+    <g class="cleanPulse"
+       transform="translate(619 159)">
+
+      <circle cx="0"
+              cy="0"
+              r="14"
+              fill="#08283A"
+              stroke="#22D3EE"
+              stroke-width="2"
+              filter="url(#glowC)"/>
+
+      <circle cx="0"
+              cy="0"
+              r="5"
+              fill="#67E8F9"/>
+
+      <path d="M0 -9V-5
+               M0 5V9
+               M-9 0H-5
+               M5 0H9"
+            stroke="#67E8F9"
+            stroke-width="1.5"/>
+
+    </g>
+
+
+    <text x="645"
+          y="151"
+          font-size="10"
+          fill="#CBD5E1"
+          class="small">
+      CLEANING
+    </text>
+
+    <text x="645"
+          y="167"
+          font-size="10"
+          fill="#CBD5E1"
+          class="small">
+      ENGINE
+    </text>
+
+    <text x="645"
+          y="183"
+          font-size="8"
+          fill="#64748B">
+      VALIDATION &amp; TREATMENT
+    </text>
+
+
+    <!-- ================================================= -->
+    <!-- OUTPUT -->
+    <!-- ================================================= -->
+
+    <path d="M750 159 H790"
+          stroke="#183B52"
+          stroke-width="2"/>
+
+    <path d="M750 159 H790"
+          stroke="url(#greenC)"
+          stroke-width="2"
+          class="flow"/>
+
+
+    <rect x="790"
+          y="126"
+          width="130"
+          height="66"
+          rx="13"
+          fill="#071D19"
+          stroke="#166534"/>
+
+
+    <!-- Check -->
+
+    <circle cx="814"
+            cy="159"
+            r="11"
+            fill="#092A22"
+            stroke="#34D399"
+            stroke-width="2"/>
+
+    <path d="M808 159
+             L813 164
+             L822 153"
+          fill="none"
+          stroke="#6EE7B7"
+          stroke-width="2"/>
+
+
+    <text x="835"
+          y="155"
+          font-size="10"
+          fill="#D1FAE5"
+          class="small">
+      CLEAN DATA
+    </text>
+
+    <text x="835"
+          y="171"
+          font-size="8"
+          fill="#6EE7B7">
+      READY FOR PART D
+    </text>
+
+
+    <!-- Moving packets -->
+
+    <circle cx="555"
+            cy="157"
+            r="3"
+            fill="#67E8F9"
+            filter="url(#glowC)"
+            class="packet"/>
+
+    <circle cx="555"
+            cy="157"
+            r="3"
+            fill="#67E8F9"
+            filter="url(#glowC)"
+            class="packet"
+            style="animation-delay:1.4s"/>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- RIGHT CLEANING MONITOR -->
+  <!-- ================================================= -->
+
+  <g class="floating">
+
+    <rect x="940"
+          y="42"
+          width="210"
+          height="210"
+          rx="16"
+          fill="#08131F"
+          stroke="#1C3449"/>
+
+
+    <text x="960"
+          y="68"
+          font-size="10"
+          fill="#64748B"
+          class="small">
+      CLEANING MONITOR
+    </text>
+
+    <circle cx="1120"
+            cy="65"
+            r="4"
+            fill="#34D399"
+            class="pulse"/>
+
+
+    <!-- Metrics -->
+
+    <rect x="960"
+          y="84"
+          width="58"
+          height="47"
+          rx="8"
+          fill="#0A1C2A"
+          stroke="#17364C"/>
+
+    <text x="989"
+          y="102"
+          text-anchor="middle"
+          font-size="8"
+          fill="#64748B"
+          class="small">
+      ROWS
+    </text>
+
+    <text x="989"
+          y="119"
+          text-anchor="middle"
+          font-size="12"
+          fill="#67E8F9"
+          class="title">
+      3000
+    </text>
+
+
+    <rect x="1025"
+          y="84"
+          width="58"
+          height="47"
+          rx="8"
+          fill="#0A1C2A"
+          stroke="#17364C"/>
+
+    <text x="1054"
+          y="102"
+          text-anchor="middle"
+          font-size="8"
+          fill="#64748B"
+          class="small">
+      ISSUES
+    </text>
+
+    <text x="1054"
+          y="119"
+          text-anchor="middle"
+          font-size="11"
+          fill="#FBBF24"
+          class="title">
+      SCAN
+    </text>
+
+
+    <rect x="1090"
+          y="84"
+          width="42"
+          height="47"
+          rx="8"
+          fill="#0A1C2A"
+          stroke="#17364C"/>
+
+    <text x="1111"
+          y="102"
+          text-anchor="middle"
+          font-size="8"
+          fill="#64748B"
+          class="small">
+      DATA
+    </text>
+
+    <text x="1111"
+          y="119"
+          text-anchor="middle"
+          font-size="8"
+          fill="#34D399"
+          class="small">
+      VALID
+    </text>
+
+
+    <!-- Chart -->
+
+    <rect x="960"
+          y="145"
+          width="172"
+          height="73"
+          rx="8"
+          fill="#06101A"
+          stroke="#13283A"/>
+
+
+    <path d="M970 163H1120
+             M970 184H1120
+             M970 205H1120"
+          stroke="#334155"
+          stroke-opacity=".35"/>
+
+
+    <!-- Raw -->
+
+    <path d="M971 196
+             L985 196
+             L998 184
+             L1011 193
+             L1025 173
+             L1038 185
+             L1051 178"
+          fill="none"
+          stroke="#FBBF24"
+          stroke-width="2"
+          opacity=".65"
+          class="flow"/>
+
+
+    <!-- Clean -->
+
+    <path d="M1051 178
+             L1064 174
+             L1077 169
+             L1090 164
+             L1103 160
+             L1118 151"
+          fill="none"
+          stroke="url(#greenC)"
+          stroke-width="2.3"
+          filter="url(#glowC)"
+          class="flow"/>
+
+
+    <!-- Scanner -->
+
+    <rect x="970"
+          y="152"
+          width="150"
+          height="2"
+          fill="#22D3EE"
+          opacity=".65"
+          class="scan"/>
+
+
+    <text x="970"
+          y="237"
+          font-size="8"
+          fill="#FBBF24"
+          class="small">
+      RAW
+    </text>
+
+    <text x="1120"
+          y="237"
+          text-anchor="end"
+          font-size="8"
+          fill="#6EE7B7"
+          class="small">
+      CLEAN
+    </text>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- DECORATIVE PARTICLES -->
+  <!-- ================================================= -->
+
+  <circle cx="925"
+          cy="57"
+          r="2"
+          fill="#22D3EE"
+          class="pulse"/>
+
+  <circle cx="925"
+          cy="270"
+          r="2"
+          fill="#34D399"
+          class="pulse"/>
+
+  <circle cx="1165"
+          cy="274"
+          r="2"
+          fill="#22D3EE"
+          class="pulse"/>
+
+
+  <!-- ================================================= -->
+  <!-- BOTTOM BORDER -->
+  <!-- ================================================= -->
+
+  <rect x="48"
+        y="274"
+        width="1104"
+        height="1"
+        fill="#1E3448"/>
+
+</svg>
