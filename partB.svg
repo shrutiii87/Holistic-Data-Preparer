@@ -1,0 +1,793 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300">
+      <stop offset="0" stop-color="#050B14"/>
+      <stop offset="0.55" stop-color="#0A1422"/>
+      <stop offset="1" stop-color="#06101A"/>
+    </linearGradient>
+
+    <!-- Cyan -->
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67E8F9"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+
+    <!-- Green -->
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34D399"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+
+    <!-- Grid -->
+    <pattern id="grid"
+             width="40"
+             height="40"
+             patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40"
+            stroke="#64748B"
+            stroke-opacity="0.045"/>
+    </pattern>
+
+    <style>
+
+      text {
+        font-family: Inter, Arial, Helvetica, sans-serif;
+      }
+
+      .title {
+        font-weight: 700;
+        letter-spacing: 0;
+      }
+
+      .small {
+        font-weight: 600;
+        letter-spacing: 1.2px;
+      }
+
+      .flow {
+        stroke-dasharray: 7 9;
+        animation: flow 1.4s linear infinite;
+      }
+
+      @keyframes flow {
+        to {
+          stroke-dashoffset: -32;
+        }
+      }
+
+      .floating {
+        animation: floating 4s ease-in-out infinite;
+      }
+
+      @keyframes floating {
+        0%,100% {
+          transform: translateY(0);
+        }
+
+        50% {
+          transform: translateY(-5px);
+        }
+      }
+
+      .pulse {
+        animation: pulse 2s ease-in-out infinite;
+      }
+
+      @keyframes pulse {
+        0%,100% {
+          opacity: .35;
+        }
+
+        50% {
+          opacity: 1;
+        }
+      }
+
+      .scanner {
+        animation: scanner 3s ease-in-out infinite;
+      }
+
+      @keyframes scanner {
+        0% {
+          transform: translateY(0);
+          opacity: 0;
+        }
+
+        20% {
+          opacity: .8;
+        }
+
+        80% {
+          opacity: .8;
+        }
+
+        100% {
+          transform: translateY(88px);
+          opacity: 0;
+        }
+      }
+
+      .packet {
+        animation: packet 3s linear infinite;
+      }
+
+      @keyframes packet {
+        0% {
+          transform: translateX(0);
+          opacity: 0;
+        }
+
+        15% {
+          opacity: 1;
+        }
+
+        80% {
+          opacity: 1;
+        }
+
+        100% {
+          transform: translateX(130px);
+          opacity: 0;
+        }
+      }
+
+    </style>
+
+  </defs>
+
+
+  <!-- ================================================= -->
+  <!-- BACKGROUND -->
+  <!-- ================================================= -->
+
+  <rect width="1200"
+        height="300"
+        rx="22"
+        fill="url(#bg)"/>
+
+  <rect width="1200"
+        height="300"
+        rx="22"
+        fill="url(#grid)"/>
+
+  <ellipse cx="1000"
+           cy="145"
+           rx="190"
+           ry="135"
+           fill="#0891B2"
+           opacity=".06"
+           filter="url(#softGlow)"/>
+
+
+  <!-- ================================================= -->
+  <!-- LEFT ACCENT -->
+  <!-- ================================================= -->
+
+  <rect x="48"
+        y="47"
+        width="3"
+        height="128"
+        rx="2"
+        fill="url(#cyan)"
+        filter="url(#glow)"/>
+
+
+  <!-- ================================================= -->
+  <!-- HEADER AREA -->
+  <!-- IMPORTANT: SOURCE CARDS START AFTER X=390 -->
+  <!-- ================================================= -->
+
+  <text x="70"
+        y="65"
+        font-size="10"
+        fill="#38BDF8"
+        class="small">
+    DATA PIPELINE / PART B
+  </text>
+
+
+  <!-- FIXED HEADING -->
+  <!-- Dedicated width from x=70 to x=360 -->
+
+  <text x="70"
+        y="108"
+        font-size="32"
+        fill="#F8FAFC"
+        class="title">
+    Data Acquisition
+  </text>
+
+
+  <!-- Heading divider -->
+
+  <rect x="70"
+        y="123"
+        width="285"
+        height="1"
+        fill="#1E3A52"/>
+
+
+  <!-- Description -->
+
+  <text x="70"
+        y="148"
+        font-size="12.5"
+        fill="#94A3B8">
+    Collecting reliable customer data
+  </text>
+
+  <text x="70"
+        y="168"
+        font-size="12.5"
+        fill="#94A3B8">
+    from structured and external sources.
+  </text>
+
+
+  <!-- Status -->
+
+  <g transform="translate(70 195)">
+
+    <rect width="190"
+          height="34"
+          rx="8"
+          fill="#081A20"
+          stroke="#164E63"/>
+
+    <circle cx="18"
+            cy="17"
+            r="4"
+            fill="#22D3EE"
+            filter="url(#glow)"
+            class="pulse"/>
+
+    <text x="32"
+          y="21"
+          font-size="10"
+          fill="#67E8F9"
+          class="small">
+      SOURCES CONNECTED
+    </text>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- DATA SOURCES -->
+  <!-- MOVED RIGHT TO PREVENT HEADING OVERLAP -->
+  <!-- ================================================= -->
+
+  <g class="floating">
+
+
+    <!-- CSV -->
+
+    <g>
+
+      <rect x="385"
+            y="62"
+            width="125"
+            height="54"
+            rx="11"
+            fill="#081522"
+            stroke="#1E4058"/>
+
+      <rect x="403"
+            y="77"
+            width="19"
+            height="24"
+            rx="3"
+            fill="#0E2637"
+            stroke="#38BDF8"/>
+
+      <path d="M407 84H418
+               M407 90H418
+               M407 96H415"
+            stroke="#67E8F9"
+            stroke-width="1.4"/>
+
+      <text x="434"
+            y="84"
+            font-size="10"
+            fill="#CBD5E1"
+            class="small">
+        CSV
+      </text>
+
+      <text x="434"
+            y="100"
+            font-size="8"
+            fill="#64748B">
+        FILE SOURCE
+      </text>
+
+    </g>
+
+
+    <!-- JSON -->
+
+    <g>
+
+      <rect x="385"
+            y="130"
+            width="125"
+            height="54"
+            rx="11"
+            fill="#081522"
+            stroke="#1E4058"/>
+
+      <text x="403"
+            y="165"
+            font-size="21"
+            fill="#38BDF8"
+            class="title">
+        { }
+      </text>
+
+      <text x="447"
+            y="152"
+            font-size="10"
+            fill="#CBD5E1"
+            class="small">
+        JSON
+      </text>
+
+      <text x="447"
+            y="168"
+            font-size="8"
+            fill="#64748B">
+        DATA SOURCE
+      </text>
+
+    </g>
+
+
+    <!-- SQL -->
+
+    <g>
+
+      <rect x="385"
+            y="198"
+            width="125"
+            height="54"
+            rx="11"
+            fill="#081522"
+            stroke="#1E4058"/>
+
+      <ellipse cx="405"
+               cy="211"
+               rx="11"
+               ry="4"
+               fill="#0E2637"
+               stroke="#38BDF8"/>
+
+      <path d="M394 211V226
+               C394 231 416 231 416 226V211"
+            fill="#0E2637"
+            stroke="#38BDF8"/>
+
+      <path d="M394 218
+               C394 223 416 223 416 218"
+            fill="none"
+            stroke="#38BDF8"/>
+
+      <text x="437"
+            y="219"
+            font-size="10"
+            fill="#CBD5E1"
+            class="small">
+        SQL
+      </text>
+
+      <text x="437"
+            y="235"
+            font-size="8"
+            fill="#64748B">
+        DATABASE
+      </text>
+
+    </g>
+
+
+    <!-- ================================================= -->
+    <!-- CONNECTIONS -->
+    <!-- ================================================= -->
+
+    <path d="M510 89
+             C535 89 535 141 560 141"
+          fill="none"
+          stroke="#183B52"
+          stroke-width="2"/>
+
+    <path d="M510 157 H560"
+          fill="none"
+          stroke="#183B52"
+          stroke-width="2"/>
+
+    <path d="M510 225
+             C535 225 535 180 560 180"
+          fill="none"
+          stroke="#183B52"
+          stroke-width="2"/>
+
+
+    <path d="M510 89
+             C535 89 535 141 560 141"
+          fill="none"
+          stroke="url(#cyan)"
+          stroke-width="2"
+          class="flow"/>
+
+    <path d="M510 157 H560"
+          fill="none"
+          stroke="url(#cyan)"
+          stroke-width="2"
+          class="flow"/>
+
+    <path d="M510 225
+             C535 225 535 180 560 180"
+          fill="none"
+          stroke="url(#cyan)"
+          stroke-width="2"
+          class="flow"/>
+
+
+    <!-- ================================================= -->
+    <!-- INGESTION HUB -->
+    <!-- ================================================= -->
+
+    <rect x="560"
+          y="119"
+          width="155"
+          height="80"
+          rx="15"
+          fill="#091B2A"
+          stroke="#2563EB"
+          stroke-opacity=".7"/>
+
+    <circle cx="589"
+            cy="159"
+            r="13"
+            fill="#08283A"
+            stroke="#22D3EE"
+            stroke-width="2"
+            filter="url(#glow)"/>
+
+    <circle cx="589"
+            cy="159"
+            r="5"
+            fill="#67E8F9"
+            class="pulse"/>
+
+    <text x="613"
+          y="151"
+          font-size="10"
+          fill="#CBD5E1"
+          class="small">
+        DATA
+    </text>
+
+    <text x="613"
+          y="167"
+          font-size="10"
+          fill="#CBD5E1"
+          class="small">
+        INGESTION
+    </text>
+
+    <text x="613"
+          y="183"
+          font-size="8"
+          fill="#64748B">
+        ACQUISITION HUB
+    </text>
+
+
+    <!-- ================================================= -->
+    <!-- OUTPUT -->
+    <!-- ================================================= -->
+
+    <path d="M715 159 H755"
+          stroke="#183B52"
+          stroke-width="2"/>
+
+    <path d="M715 159 H755"
+          stroke="url(#green)"
+          stroke-width="2"
+          class="flow"/>
+
+
+    <rect x="755"
+          y="126"
+          width="130"
+          height="66"
+          rx="13"
+          fill="#071D19"
+          stroke="#166534"/>
+
+    <circle cx="779"
+            cy="159"
+            r="11"
+            fill="#092A22"
+            stroke="#34D399"
+            stroke-width="2"/>
+
+    <path d="M773 159L778 164L787 153"
+          fill="none"
+          stroke="#6EE7B7"
+          stroke-width="2"/>
+
+    <text x="800"
+          y="155"
+          font-size="10"
+          fill="#D1FAE5"
+          class="small">
+        ACQUIRED
+    </text>
+
+    <text x="800"
+          y="171"
+          font-size="8"
+          fill="#6EE7B7">
+        READY FOR PART C
+    </text>
+
+
+    <!-- Moving packet -->
+
+    <circle cx="520"
+            cy="157"
+            r="3"
+            fill="#67E8F9"
+            filter="url(#glow)"
+            class="packet"/>
+
+    <circle cx="520"
+            cy="157"
+            r="3"
+            fill="#67E8F9"
+            filter="url(#glow)"
+            class="packet"
+            style="animation-delay:1.5s"/>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- RIGHT MONITOR -->
+  <!-- ================================================= -->
+
+  <g class="floating">
+
+    <rect x="905"
+          y="42"
+          width="245"
+          height="210"
+          rx="16"
+          fill="#08131F"
+          stroke="#1C3449"/>
+
+
+    <text x="927"
+          y="68"
+          font-size="10"
+          fill="#64748B"
+          class="small">
+      ACQUISITION MONITOR
+    </text>
+
+    <circle cx="1120"
+            cy="65"
+            r="4"
+            fill="#34D399"
+            class="pulse"/>
+
+
+    <!-- Status cards -->
+
+    <g>
+
+      <rect x="927"
+            y="84"
+            width="68"
+            height="47"
+            rx="8"
+            fill="#0A1C2A"
+            stroke="#17364C"/>
+
+      <text x="961"
+            y="103"
+            text-anchor="middle"
+            font-size="8"
+            fill="#64748B"
+            class="small">
+        CSV
+      </text>
+
+      <text x="961"
+            y="119"
+            text-anchor="middle"
+            font-size="9"
+            fill="#67E8F9"
+            class="small">
+        CONNECTED
+      </text>
+
+    </g>
+
+
+    <g>
+
+      <rect x="1003"
+            y="84"
+            width="68"
+            height="47"
+            rx="8"
+            fill="#0A1C2A"
+            stroke="#17364C"/>
+
+      <text x="1037"
+            y="103"
+            text-anchor="middle"
+            font-size="8"
+            fill="#64748B"
+            class="small">
+        JSON
+      </text>
+
+      <text x="1037"
+            y="119"
+            text-anchor="middle"
+            font-size="9"
+            fill="#67E8F9"
+            class="small">
+        CONNECTED
+      </text>
+
+    </g>
+
+
+    <g>
+
+      <rect x="1079"
+            y="84"
+            width="52"
+            height="47"
+            rx="8"
+            fill="#0A1C2A"
+            stroke="#17364C"/>
+
+      <text x="1105"
+            y="103"
+            text-anchor="middle"
+            font-size="8"
+            fill="#64748B"
+            class="small">
+        SQL
+      </text>
+
+      <text x="1105"
+            y="119"
+            text-anchor="middle"
+            font-size="8"
+            fill="#34D399"
+            class="small">
+        READY
+      </text>
+
+    </g>
+
+
+    <!-- Chart -->
+
+    <rect x="927"
+          y="145"
+          width="204"
+          height="73"
+          rx="8"
+          fill="#06101A"
+          stroke="#13283A"/>
+
+    <path d="M938 163H1120
+             M938 184H1120
+             M938 205H1120"
+          stroke="#334155"
+          stroke-opacity=".35"/>
+
+    <path d="M939 199
+             L953 199
+             L966 183
+             L978 191
+             L991 171
+             L1004 184
+             L1018 164
+             L1031 177
+             L1046 155
+             L1059 169
+             L1073 150
+             L1086 161
+             L1100 145
+             L1112 151"
+          fill="none"
+          stroke="url(#cyan)"
+          stroke-width="2.2"
+          filter="url(#glow)"
+          class="flow"/>
+
+    <rect x="938"
+          y="152"
+          width="180"
+          height="2"
+          fill="#22D3EE"
+          opacity=".65"
+          class="scanner"/>
+
+
+    <text x="927"
+          y="237"
+          font-size="8"
+          fill="#64748B"
+          class="small">
+        DATA STREAM
+    </text>
+
+    <text x="1128"
+          y="237"
+          text-anchor="end"
+          font-size="8"
+          fill="#6EE7B7"
+          class="small">
+        ACTIVE
+    </text>
+
+  </g>
+
+
+  <!-- Decorative particles -->
+
+  <circle cx="895"
+          cy="57"
+          r="2"
+          fill="#22D3EE"
+          class="pulse"/>
+
+  <circle cx="895"
+          cy="270"
+          r="2"
+          fill="#34D399"
+          class="pulse"/>
+
+  <circle cx="1165"
+          cy="274"
+          r="2"
+          fill="#22D3EE"
+          class="pulse"/>
+
+
+  <!-- Bottom border -->
+
+  <rect x="48"
+        y="274"
+        width="1104"
+        height="1"
+        fill="#1E3448"/>
+
+</svg>
