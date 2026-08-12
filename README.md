@@ -169,6 +169,8 @@ final_df.head()
 
 ## 🧹 Part C : Data Understanding & Cleaning
 
+<img width="1200" height="300" alt="partC" src="https://github.com/user-attachments/assets/b9a326c8-1d26-43d9-9714-a22f3b92809e" />
+
 ### 4️⃣ Explore the dataset using pandas
 
 ```python
@@ -303,6 +305,8 @@ print("Before:", final_df.shape, " After:", cca_df.shape)
 ---
 
 ## ⚠️ Part D : Outlier Handling
+
+<img width="1200" height="300" alt="partD" src="https://github.com/user-attachments/assets/19472c9f-95a7-4ab5-9983-f5996cc1fec7" />
 
 ### 7️⃣ Detect and treat outliers using:
 
