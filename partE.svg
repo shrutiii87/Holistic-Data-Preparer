@@ -3,34 +3,33 @@
 
   <defs>
 
-    <!-- Background -->
-    <linearGradient id="bgD" x1="0" y1="0" x2="1200" y2="300">
+    <!-- ================================================= -->
+    <!-- BACKGROUND -->
+    <!-- ================================================= -->
+
+    <linearGradient id="bgE" x1="0" y1="0" x2="1200" y2="300">
       <stop offset="0" stop-color="#050B14"/>
       <stop offset="0.55" stop-color="#0A1422"/>
       <stop offset="1" stop-color="#06101A"/>
     </linearGradient>
 
-    <!-- Cyan -->
-    <linearGradient id="cyanD" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="cyanE" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#67E8F9"/>
       <stop offset="0.5" stop-color="#22D3EE"/>
       <stop offset="1" stop-color="#2563EB"/>
     </linearGradient>
 
-    <!-- Green -->
-    <linearGradient id="greenD" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="greenE" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#34D399"/>
       <stop offset="1" stop-color="#10B981"/>
     </linearGradient>
 
-    <!-- Yellow -->
-    <linearGradient id="yellowD" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#FBBF24"/>
-      <stop offset="1" stop-color="#F59E0B"/>
+    <linearGradient id="purpleE" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#C084FC"/>
+      <stop offset="1" stop-color="#7C3AED"/>
     </linearGradient>
 
-    <!-- Glow -->
-    <filter id="glowD">
+    <filter id="glowE">
       <feGaussianBlur stdDeviation="5" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
@@ -38,12 +37,11 @@
       </feMerge>
     </filter>
 
-    <filter id="softGlowD">
+    <filter id="softGlowE">
       <feGaussianBlur stdDeviation="22"/>
     </filter>
 
-    <!-- Grid -->
-    <pattern id="gridD"
+    <pattern id="gridE"
              width="40"
              height="40"
              patternUnits="userSpaceOnUse">
@@ -51,6 +49,10 @@
             stroke="#64748B"
             stroke-opacity="0.045"/>
     </pattern>
+
+    <!-- ================================================= -->
+    <!-- ANIMATION -->
+    <!-- ================================================= -->
 
     <style>
 
@@ -67,24 +69,22 @@
         letter-spacing: 1px;
       }
 
-      /* Flow animation */
       .flow {
         stroke-dasharray: 7 9;
-        animation: flow 1.5s linear infinite;
+        animation: flowE 1.5s linear infinite;
       }
 
-      @keyframes flow {
+      @keyframes flowE {
         to {
           stroke-dashoffset: -32;
         }
       }
 
-      /* Floating cards */
       .floating {
-        animation: floating 4s ease-in-out infinite;
+        animation: floatingE 4s ease-in-out infinite;
       }
 
-      @keyframes floating {
+      @keyframes floatingE {
         0%,100% {
           transform: translateY(0);
         }
@@ -94,12 +94,11 @@
         }
       }
 
-      /* Pulse */
       .pulse {
-        animation: pulse 2s ease-in-out infinite;
+        animation: pulseE 2s ease-in-out infinite;
       }
 
-      @keyframes pulse {
+      @keyframes pulseE {
         0%,100% {
           opacity: .35;
         }
@@ -109,12 +108,11 @@
         }
       }
 
-      /* Scanner */
-      .scanner {
-        animation: scanner 3s ease-in-out infinite;
+      .scan {
+        animation: scanE 3s ease-in-out infinite;
       }
 
-      @keyframes scanner {
+      @keyframes scanE {
         0% {
           transform: translateY(0);
           opacity: 0;
@@ -129,8 +127,23 @@
         }
 
         100% {
-          transform: translateY(55px);
+          transform: translateY(60px);
           opacity: 0;
+        }
+      }
+
+      .bars {
+        animation: barsE 2.2s ease-in-out infinite;
+        transform-origin: bottom;
+      }
+
+      @keyframes barsE {
+        0%,100% {
+          transform: scaleY(.65);
+        }
+
+        50% {
+          transform: scaleY(1);
         }
       }
 
@@ -146,20 +159,20 @@
   <rect width="1200"
         height="300"
         rx="22"
-        fill="url(#bgD)"/>
+        fill="url(#bgE)"/>
 
   <rect width="1200"
         height="300"
         rx="22"
-        fill="url(#gridD)"/>
+        fill="url(#gridE)"/>
 
   <ellipse cx="1010"
            cy="145"
            rx="190"
            ry="135"
-           fill="#0891B2"
-           opacity=".06"
-           filter="url(#softGlowD)"/>
+           fill="#7C3AED"
+           opacity=".055"
+           filter="url(#softGlowE)"/>
 
 
   <!-- ================================================= -->
@@ -167,81 +180,71 @@
   <!-- ================================================= -->
 
   <rect x="48"
-        y="50"
+        y="48"
         width="3"
-        height="125"
+        height="130"
         rx="2"
-        fill="url(#cyanD)"
-        filter="url(#glowD)"/>
+        fill="url(#cyanE)"
+        filter="url(#glowE)"/>
 
 
   <!-- ================================================= -->
-  <!-- HEADER -->
-  <!-- Dedicated safe area: x 70 → 375 -->
+  <!-- HEADER SAFE ZONE -->
   <!-- ================================================= -->
 
   <text x="70"
-        y="67"
+        y="66"
         font-size="10"
-        fill="#FBBF24"
+        fill="#C084FC"
         class="small">
-    DATA PIPELINE / PART D
+    DATA PIPELINE / PART E
   </text>
-
-
-  <!-- Main heading -->
 
   <text x="70"
         y="108"
-        font-size="30"
+        font-size="29"
         fill="#F8FAFC"
         class="title">
-    Outlier Handling
+    Feature Engineering
   </text>
-
-
-  <!-- Divider -->
 
   <rect x="70"
         y="123"
-        width="300"
+        width="315"
         height="1"
         fill="#1E3A52"/>
 
-
-  <!-- Short description -->
-
   <text x="70"
-        y="148"
+        y="149"
         font-size="12"
         fill="#94A3B8">
-    Detect → Treat → Validate
+    Transform → Create → Select
   </text>
 
 
-  <!-- Status -->
+  <!-- STATUS -->
 
   <g transform="translate(70 181)">
 
     <rect width="205"
           height="36"
           rx="9"
-          fill="#1D1708"
-          stroke="#5B4610"/>
+          fill="#101025"
+          stroke="#35275A"/>
 
     <circle cx="18"
             cy="18"
             r="4"
-            fill="#FBBF24"
-            filter="url(#glowD)"
+            fill="#C084FC"
+            filter="url(#glowE)"
             class="pulse"/>
 
     <text x="32"
           y="22"
           font-size="10"
-          fill="#FCD34D"
+          fill="#D8B4FE"
           class="small">
-      OUTLIER SCAN ACTIVE
+      FEATURES ACTIVE
     </text>
 
   </g>
@@ -254,7 +257,9 @@
   <g class="floating">
 
 
-    <!-- ================= DETECT ================= -->
+    <!-- ================================================= -->
+    <!-- TRANSFORM -->
+    <!-- ================================================= -->
 
     <rect x="405"
           y="62"
@@ -265,36 +270,48 @@
           stroke="#1E4058"/>
 
 
-    <!-- Data points -->
+    <!-- Transformation icon -->
 
-    <circle cx="423" cy="80" r="3" fill="#38BDF8"/>
-    <circle cx="435" cy="91" r="3" fill="#38BDF8"/>
-    <circle cx="448" cy="84" r="3" fill="#38BDF8"/>
-    <circle cx="461" cy="94" r="3" fill="#38BDF8"/>
+    <path d="M423 80
+             H449
+             M423 88
+             H443
+             M423 96
+             H453"
+          stroke="#22D3EE"
+          stroke-width="2"
+          stroke-linecap="round"/>
 
-    <circle cx="478"
-            cy="76"
-            r="3.5"
-            fill="#FBBF24"
-            class="pulse"/>
+    <circle cx="459"
+            cy="80"
+            r="3"
+            fill="#67E8F9"/>
 
-    <text x="495"
+    <circle cx="453"
+            cy="96"
+            r="3"
+            fill="#67E8F9"/>
+
+
+    <text x="475"
           y="84"
           font-size="10"
           fill="#CBD5E1"
           class="small">
-      DETECT
+      TRANSFORM
     </text>
 
-    <text x="495"
+    <text x="475"
           y="100"
           font-size="8"
           fill="#64748B">
-      ANOMALIES
+      SCALE / ENCODE
     </text>
 
 
-    <!-- ================= IQR ================= -->
+    <!-- ================================================= -->
+    <!-- CREATE -->
+    <!-- ================================================= -->
 
     <rect x="405"
           y="130"
@@ -305,60 +322,48 @@
           stroke="#1E4058"/>
 
 
-    <!-- Box plot -->
+    <!-- Feature nodes -->
 
-    <line x1="423"
-          y1="157"
-          x2="493"
-          y2="157"
+    <circle cx="428"
+            cy="148"
+            r="4"
+            fill="#22D3EE"/>
+
+    <circle cx="450"
+            cy="148"
+            r="4"
+            fill="#67E8F9"/>
+
+    <circle cx="439"
+            cy="166"
+            r="4"
+            fill="#C084FC"/>
+
+    <path d="M428 148L439 166L450 148"
+          fill="none"
           stroke="#38BDF8"
-          stroke-width="2"/>
-
-    <rect x="441"
-          y="148"
-          width="30"
-          height="18"
-          rx="2"
-          fill="#0B2435"
-          stroke="#22D3EE"/>
-
-    <line x1="456"
-          y1="148"
-          x2="456"
-          y2="166"
-          stroke="#67E8F9"
-          stroke-width="2"/>
-
-    <line x1="423"
-          y1="151"
-          x2="423"
-          y2="163"
-          stroke="#38BDF8"/>
-
-    <line x1="493"
-          y1="151"
-          x2="493"
-          y2="163"
-          stroke="#FBBF24"/>
+          stroke-width="1.5"/>
 
 
-    <text x="505"
+    <text x="475"
           y="153"
           font-size="10"
           fill="#CBD5E1"
           class="small">
-      IQR
+      CREATE
     </text>
 
-    <text x="505"
-          y="168"
+    <text x="475"
+          y="169"
           font-size="8"
           fill="#64748B">
-      RANGE
+      NEW FEATURES
     </text>
 
 
-    <!-- ================= Z-SCORE ================= -->
+    <!-- ================================================= -->
+    <!-- SELECT -->
+    <!-- ================================================= -->
 
     <rect x="405"
           y="198"
@@ -369,44 +374,57 @@
           stroke="#1E4058"/>
 
 
-    <line x1="423"
-          y1="220"
-          x2="486"
-          y2="220"
-          stroke="#334155"
-          stroke-width="4"
-          stroke-linecap="round"/>
+    <!-- Selection bars -->
 
-    <circle cx="438"
-            cy="220"
-            r="4"
-            fill="#38BDF8"/>
+    <rect x="423"
+          y="215"
+          width="8"
+          height="22"
+          rx="2"
+          fill="#22D3EE"
+          class="bars"/>
 
-    <circle cx="456"
-            cy="220"
-            r="4"
-            fill="#38BDF8"/>
+    <rect x="437"
+          y="209"
+          width="8"
+          height="28"
+          rx="2"
+          fill="#67E8F9"
+          class="bars"
+          style="animation-delay:.2s"/>
 
-    <circle cx="478"
-            cy="220"
-            r="4"
-            fill="#EF4444"
-            class="pulse"/>
+    <rect x="451"
+          y="218"
+          width="8"
+          height="19"
+          rx="2"
+          fill="#334155"
+          class="bars"
+          style="animation-delay:.4s"/>
+
+    <rect x="465"
+          y="205"
+          width="8"
+          height="32"
+          rx="2"
+          fill="#C084FC"
+          class="bars"
+          style="animation-delay:.6s"/>
 
 
-    <text x="505"
+    <text x="485"
           y="219"
           font-size="10"
           fill="#CBD5E1"
           class="small">
-      Z-SCORE
+      SELECT
     </text>
 
-    <text x="505"
+    <text x="485"
           y="235"
           font-size="8"
           fill="#64748B">
-      CHECK
+      BEST FEATURES
     </text>
 
 
@@ -435,26 +453,26 @@
     <path d="M535 89
              C558 89 558 140 585 140"
           fill="none"
-          stroke="url(#yellowD)"
+          stroke="url(#cyanE)"
           stroke-width="2"
           class="flow"/>
 
     <path d="M535 157 H585"
           fill="none"
-          stroke="url(#cyanD)"
+          stroke="url(#purpleE)"
           stroke-width="2"
           class="flow"/>
 
     <path d="M535 225
              C558 225 558 181 585 181"
           fill="none"
-          stroke="#EF4444"
+          stroke="url(#greenE)"
           stroke-width="2"
           class="flow"/>
 
 
     <!-- ================================================= -->
-    <!-- TREATMENT -->
+    <!-- FEATURE ENGINE -->
     <!-- ================================================= -->
 
     <rect x="585"
@@ -463,52 +481,58 @@
           height="80"
           rx="15"
           fill="#091B2A"
-          stroke="#2563EB"
+          stroke="#7C3AED"
           stroke-opacity=".75"/>
 
 
-    <!-- Shield -->
+    <!-- Neural feature icon -->
 
     <circle cx="615"
-            cy="159"
-            r="14"
-            fill="#08283A"
-            stroke="#22D3EE"
-            stroke-width="2"
-            filter="url(#glowD)"/>
+            cy="147"
+            r="5"
+            fill="#67E8F9"
+            class="pulse"/>
 
-    <path d="M615 150
-             L623 154
-             V161
-             C623 166 618 170 615 172
-             C612 170 607 166 607 161
-             V154
-             Z"
-          fill="#0A2435"
-          stroke="#67E8F9"
+    <circle cx="615"
+            cy="171"
+            r="5"
+            fill="#C084FC"
+            class="pulse"
+            style="animation-delay:.5s"/>
+
+    <circle cx="632"
+            cy="159"
+            r="6"
+            fill="#22D3EE"
+            filter="url(#glowE)"/>
+
+    <path d="M615 147L632 159L615 171"
+          fill="none"
+          stroke="#38BDF8"
           stroke-width="1.5"/>
 
-    <path d="M611 160
-             L614 163
-             L620 157"
-          fill="none"
-          stroke="#34D399"
-          stroke-width="2"/>
 
-
-    <text x="640"
+    <text x="650"
           y="151"
           font-size="10"
           fill="#CBD5E1"
           class="small">
-      TREAT
+      FEATURE
     </text>
 
-    <text x="640"
+    <text x="650"
           y="167"
-          font-size="9"
+          font-size="10"
+          fill="#CBD5E1"
+          class="small">
+      ENGINE
+    </text>
+
+    <text x="650"
+          y="183"
+          font-size="8"
           fill="#64748B">
-      CAP / WINSORIZE
+      BUILD FEATURES
     </text>
 
 
@@ -521,7 +545,7 @@
           stroke-width="2"/>
 
     <path d="M750 159 H790"
-          stroke="url(#greenD)"
+          stroke="url(#greenE)"
           stroke-width="2"
           class="flow"/>
 
@@ -555,14 +579,14 @@
           font-size="10"
           fill="#D1FAE5"
           class="small">
-      CLEAN DATA
+      READY
     </text>
 
     <text x="835"
           y="171"
           font-size="8"
           fill="#6EE7B7">
-      READY FOR PART E
+      FOR PART F
     </text>
 
   </g>
@@ -588,7 +612,7 @@
           font-size="10"
           fill="#64748B"
           class="small">
-      OUTLIER MONITOR
+      FEATURE MONITOR
     </text>
 
     <circle cx="1120"
@@ -598,7 +622,7 @@
             class="pulse"/>
 
 
-    <!-- Metric 1 -->
+    <!-- Metric cards -->
 
     <rect x="960"
           y="84"
@@ -614,20 +638,18 @@
           font-size="8"
           fill="#64748B"
           class="small">
-      DETECT
+      INPUT
     </text>
 
     <text x="989"
           y="119"
           text-anchor="middle"
           font-size="10"
-          fill="#FBBF24"
+          fill="#67E8F9"
           class="small">
-      ACTIVE
+      RAW
     </text>
 
-
-    <!-- Metric 2 -->
 
     <rect x="1025"
           y="84"
@@ -643,20 +665,18 @@
           font-size="8"
           fill="#64748B"
           class="small">
-      METHOD
+      NEW
     </text>
 
     <text x="1054"
           y="119"
           text-anchor="middle"
           font-size="10"
-          fill="#67E8F9"
+          fill="#C084FC"
           class="small">
-      IQR
+      FEATURES
     </text>
 
-
-    <!-- Metric 3 -->
 
     <rect x="1090"
           y="84"
@@ -681,12 +701,12 @@
           font-size="8"
           fill="#34D399"
           class="small">
-      CLEAN
+      READY
     </text>
 
 
     <!-- ================================================= -->
-    <!-- CHART -->
+    <!-- FEATURE CHART -->
     <!-- ================================================= -->
 
     <rect x="960"
@@ -698,90 +718,89 @@
           stroke="#13283A"/>
 
 
+    <!-- Baseline -->
+
     <line x1="973"
-          y1="187"
+          y1="204"
           x2="1118"
-          y2="187"
+          y2="204"
           stroke="#334155"
           stroke-opacity=".5"/>
 
 
-    <!-- Whisker -->
+    <!-- Feature bars -->
 
-    <line x1="980"
-          y1="180"
-          x2="1108"
-          y2="180"
-          stroke="#38BDF8"
-          stroke-width="2"/>
+    <rect x="982"
+          y="181"
+          width="12"
+          height="23"
+          rx="2"
+          fill="#22D3EE"
+          class="bars"/>
 
-    <line x1="980"
-          y1="173"
-          x2="980"
-          y2="187"
-          stroke="#38BDF8"
-          stroke-width="2"/>
+    <rect x="1002"
+          y="170"
+          width="12"
+          height="34"
+          rx="2"
+          fill="#38BDF8"
+          class="bars"
+          style="animation-delay:.2s"/>
 
-    <line x1="1108"
-          y1="173"
-          x2="1108"
-          y2="187"
-          stroke="#38BDF8"
-          stroke-width="2"/>
+    <rect x="1022"
+          y="187"
+          width="12"
+          height="17"
+          rx="2"
+          fill="#67E8F9"
+          class="bars"
+          style="animation-delay:.4s"/>
 
+    <rect x="1042"
+          y="160"
+          width="12"
+          height="44"
+          rx="2"
+          fill="#C084FC"
+          class="bars"
+          style="animation-delay:.6s"/>
 
-    <!-- Box -->
+    <rect x="1062"
+          y="176"
+          width="12"
+          height="28"
+          rx="2"
+          fill="#A78BFA"
+          class="bars"
+          style="animation-delay:.8s"/>
 
-    <rect x="1005"
-          y="168"
-          width="55"
-          height="24"
-          rx="3"
-          fill="#0B2435"
-          stroke="#22D3EE"
-          stroke-width="1.5"/>
-
-    <line x1="1035"
-          y1="168"
-          x2="1035"
-          y2="192"
-          stroke="#67E8F9"
-          stroke-width="2"/>
-
-
-    <!-- Outliers -->
-
-    <circle cx="1080"
-            cy="180"
-            r="3"
-            fill="#FBBF24"
-            class="pulse"/>
-
-    <circle cx="1118"
-            cy="180"
-            r="3"
-            fill="#EF4444"
-            class="pulse"/>
+    <rect x="1082"
+          y="166"
+          width="12"
+          height="38"
+          rx="2"
+          fill="#34D399"
+          class="bars"
+          style="animation-delay:1s"/>
 
 
-    <!-- Animated clean line -->
+    <!-- Scanner -->
 
-    <rect x="1005"
-          y="203"
-          width="55"
+    <rect x="973"
+          y="151"
+          width="142"
           height="2"
-          fill="url(#greenD)"
-          class="scanner"/>
+          fill="#C084FC"
+          opacity=".65"
+          class="scan"/>
 
-
-    <!-- Bottom labels -->
 
     <text x="970"
           y="237"
           font-size="8"
-          fill="#FBBF24"
+          fill="#64748B"
           class="small">
-      OUTLIERS
+      FEATURES
     </text>
 
     <text x="1120"
@@ -790,7 +809,7 @@
           font-size="8"
           fill="#6EE7B7"
           class="small">
-      TREATED
+      OPTIMIZED
     </text>
 
   </g>
@@ -815,11 +834,13 @@
   <circle cx="1165"
           cy="274"
           r="2"
-          fill="#22D3EE"
+          fill="#C084FC"
           class="pulse"/>
 
 
-  <!-- Bottom border -->
+  <!-- ================================================= -->
+  <!-- BOTTOM BORDER -->
+  <!-- ================================================= -->
 
   <rect x="48"
         y="274"
