@@ -33,6 +33,7 @@ The dataset contains:
 | 🗄️ `loan_repayment_history.db` | SQLite database with loan repayment history (SQL source) |
 | 📈 `customer_credit_risk_data_quality_report.html` | Auto-generated Pandas/ydata profiling report |
 | 🧼 `final_processed_dataset.csv` | Final cleaned, encoded and scaled ML-ready dataset |
+| 📂 `theory_concepts.pdf` | PDF of theory concepts |
 | 📘 `README.md` | Project documentation and workflow guide |
 
 ---
