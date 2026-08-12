@@ -380,6 +380,8 @@ print("Winsorization Applied Successfully!")
 
 ## 🧬 Part E : Feature Engineering
 
+<img width="1200" height="300" alt="partE" src="https://github.com/user-attachments/assets/8c716548-695e-475e-9864-e473092397ba" />
+
 ### 8️⃣ Handle variable types
 
 ##### 🔄 Mixed Variables (numeric + categorical)
@@ -507,6 +509,8 @@ kmeans_df["transaction_count_kmeans"] = kbins.fit_transform(
 
 ## 📏 Part F : Feature Scaling
 
+<img width="1200" height="300" alt="partF" src="https://github.com/user-attachments/assets/326a41e0-3853-4f60-8c70-cb5cb1b6d35c" />
+
 ### 1️⃣1️⃣ Apply multiple scaling methods
 
 ```python
@@ -532,6 +536,8 @@ robust   = RobustScaler().fit_transform(final_df[scale_cols])     # median / IQR
 ---
 
 ## 🧠 Part G : Feature Construction & Transformation
+
+<img width="1200" height="300" alt="partG" src="https://github.com/user-attachments/assets/f51731b7-0ba1-4d5f-aeb2-a715fa0a4079" />
 
 ### 1️⃣2️⃣ Apply transformations
 
@@ -599,6 +605,8 @@ final_df["spend_to_income"]   = final_df["spending_ratio"] / 100
 
 ## 📊 Part H : Final Deliverable
 
+<img width="1200" height="300" alt="partH" src="https://github.com/user-attachments/assets/4c751a1d-75f5-4002-9850-a1fd86dee2fb" />
+
 ### 1️⃣4️⃣ Final cleaned and transformed dataset
 
 ```python
@@ -631,6 +639,8 @@ print("Final processed dataset saved successfully.")
 | Is the dataset ML-ready? | Yes — zero missing values, all dtypes numeric, outliers capped, features scaled, target isolated. |
 
 ---
+
+<img width="1200" height="300" alt="workflow" src="https://github.com/user-attachments/assets/e36419b2-5c72-4986-bbd3-2d20e7cc636f" />
 
 ## 📂 Project Workflow
 
