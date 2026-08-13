@@ -89,7 +89,7 @@ The dataset contains:
 
 ---
 
-<img width="1535" height="1024" alt="3ae12da8-4deb-428a-906d-0fb3b7fc96b3" src="https://github.com/user-attachments/assets/b05137ed-9ac9-47e5-9d5b-b95ffd90e9b7" />
+<img width="1600" height="900" alt="3ae12da8-4deb-428a-906d-0fb3b7fc96b3" src="https://github.com/user-attachments/assets/b05137ed-9ac9-47e5-9d5b-b95ffd90e9b7" />
 
 ---
 
